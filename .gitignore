@@ -1,0 +1,10 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Ignora los archivos relacionados a API keys
+.env
+
+# Ignora archivos de configuración SASS
+.sass-cache
