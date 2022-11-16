@@ -1,0 +1,93 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Tsu"	"Eq"	"Name"	"Location"	"Country"	"Latitude"	"Longitude"	"Elevation (m)"	"Type"	"VEI"	"Agent"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"
+"[""2010 <= Year >= 2022""]"																																		
+	2010	1				"Tungurahua"	"Ecuador"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	3									1										1		
+	2010	3	31			"Eyjafjallajokull"	"Iceland-S"	"Iceland"	63.633	-19.633	1651	"Stratovolcano"	2		2	1									2	1								
+	2010	5	27			"Pacaya"	"Guatemala"	"Guatemala"	14.382	-90.601	2569	"Complex volcano"	1	"T"	1	1	3	1				1	3	1	1	1	3	1				1	3	1
+	2010	5	29	4822	9172	"Zealandia Bank"	"Mariana Is-C Pacific"	"United States"	16.88	145.85	0	"Stratovolcano"																						
+	2010	8	6			"Karangetang"	"Sangihe Is-Indonesia"	"Indonesia"	2.781	125.407	1797	"Stratovolcano"	3		4	1			5	1				1	4	1			5	1				1
+	2010	8	30			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"			2	1									2	1								
+	2010	10	26			"Merapi"	"Java"	"Indonesia"	-7.54	110.446	2910	"Stratovolcano"			367	3			277	3	600	4		3	367	3			277	3	600	4		3
+	2010	11				"Tungurahua"	"Ecuador"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	3									1										1		
+	2010	12	28			"Tengger Caldera"	"Java"	"Indonesia"	-7.942	112.95	2329	"Stratovolcano"										1												
+	2011	1	3			"Merapi"	"Java"	"Indonesia"	-7.54	110.446	2910	"Stratovolcano"		"M"	1	1			1	1		1			1	1			1	1		1		
+	2011	1	28			"Kirishimayama"	"Kyushu-Japan"	"Japan"	31.934	130.862	1700	"Shield volcano"								1		1								1		1		
+	2011	2	23			"Bulusan"	"Luzon-Philippines"	"Philippines"	12.769	124.056	1535	"Stratovolcano"	2		1	1									1	1								
+	2011	3	18			"Karangetang"	"Sangihe Is-Indonesia"	"Indonesia"	2.781	125.407	1797	"Stratovolcano"										1										1		
+	2011	4				"Tungurahua"	"Ecuador"	"Ecuador"	-1.467	-78.442	5023	"Stratovolcano"	4									1										1		
+	2011	6	4			"Puyehue-Cordon Caulle"	"Chile-C"	"Chile"	-40.59	-72.117	2236	"Stratovolcano"	4									2										2		
+	2011	6	22			"Nabro"	"Africa-NE"	"Eritrea"	13.37	41.7	2218	"Stratovolcano"	4		31	1				3		1			31	1				3		1		
+	2011	7	9			"Katla"	"Iceland-S"	"Iceland"	63.633	-19.083	1490	"Subglacial volcano"										1										1		
+	2011	7	17			"Lokon-Empung"	"Sulawesi-Indonesia"	"Indonesia"	1.358	124.792	1580	"Stratovolcano"			1	1									1	1								
+	2011	12	27			"Gamalama"	"Halmahera-Indonesia"	"Indonesia"	0.8	127.33	1715	"Stratovolcano"	3	"m"	4	1				1					4	1				1				
+	2012	2	10			"Kilauea"	"Hawaiian Is"	"United States"	19.421	-155.287	1222	"Shield volcano"										2										2		
+	2012	3	2			"Kilauea"	"Hawaiian Is"	"United States"	19.421	-155.287	1222	"Shield volcano"		"L"								1	1	1										
+	2012	12	12			"Tolbachik"	"Kamchatka"	"Russia"	55.832	160.326	3611	"Shield volcano"										1										1		
+	2013	2	12			"Merapi"	"Java"	"Indonesia"	-7.54	110.446	2910	"Stratovolcano"		"M"	1	1			1	1		1			1	1			1	1		1		
+	2013	2				"Paluweh"	"Lesser Sunda Is"	"Indonesia"	-8.32	121.708	875	"Stratovolcano"										1		1								1		1
+	2013	5	7			"Mayon"	"Luzon-Philippines"	"Philippines"	13.257	123.685	2462	"Stratovolcano"			5	1			8	1					5	1			8	1				
+	2013	8	10			"Paluweh"	"Lesser Sunda Is"	"Indonesia"	-8.32	121.708	875	"Stratovolcano"	3		5	1									5	1								
+	2013	9	1			"Ubinas"	"Peru"	"Peru"	-16.355	-70.903	5672	"Stratovolcano"										1										1		
+	2013	9	4			"Aira"	"Kyushu-Japan"	"Japan"	31.593	130.657	1117	"Stratovolcano"										1										1		
+	2013	9	15			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"	2									2										2		
+	2013	12	13			"Okataina"	"New Zealand"	"New Zealand"	-38.12	176.5	1111	"Lava dome"		"G"	1	1									1	1								
+	2014	2	1			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"			17	1			3	1		1		2	17	1			3	1		1		2
+	2014	2	13			"Kelud"	"Java"	"Indonesia"	-7.93	112.308	1731	"Stratovolcano"			7	1						3	4098	4	7	1						3	4098	4
+	2014	9	27			"Ontakesan"	"Honshu-Japan"	"Japan"	35.893	137.48	3067	"Complex volcano"	3		55	2			70	2					55	2			70	2				
+	2014	11	10			"Kilauea"	"Hawaiian Is"	"United States"	19.421	-155.287	1222	"Shield volcano"									14.5	3	1	1							14.5	3	1	1
+	2014	11	23			"Fogo"	"Cape Verde Is"	"Cape Verde"	14.95	-24.35	2829	"Stratovolcano"										2	230	3								2	230	3
+	2014	12	18			"Gamalama"	"Halmahera-Indonesia"	"Indonesia"	0.8	127.33	1715	"Stratovolcano"			1	1			4	1					1	1			4	1				
+	2015	2	20			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"										1		1								1		1
+	2015	4	22			"Calbuco"	"Chile-S"	"Chile"	-41.33	-72.618	1974	"Stratovolcano"										2		2								2		2
+	2015	5	2	5584	10140	"Sumisujima"	"Izu Is-Japan"	"Japan"	31.44	140.051	136	"Submarine volcano"		"S,W"																				
+	2015	5	7			"Karangetang"	"Sangihe Is-Indonesia"	"Indonesia"	2.781	125.407	1797	"Stratovolcano"										1		1								1		1
+	2015	7	31			"Manam"	"New Guinea-NE of"	"Papua New Guinea"	-4.08	145.037	1807	"Stratovolcano"	2						2	1		1							2	1		1		
+	2015	10	16			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"		"M"	1	1						1			1	1						1		
+	2015	10				"Okataina"	"New Zealand"	"New Zealand"	-38.12	176.5	1111	"Lava dome"		"I"	1	1									1	1								
+	2016	5	9			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"			1	1			4	1		1	3	1	1	1			4	1		1		
+	2016	5	21			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"			7	1			3	1	100	4			7	1			3	1	100	4		
+	2016	6	9			"Yellowstone"	"US-Wyoming"	"United States"	44.43	-110.67	2805	"Caldera"			1	1									1	1								
+	2016	9	27			"Rinjani"	"Lesser Sunda Is"	"Indonesia"	-8.42	116.47	3726	"Stratovolcano"					44	1									44	1						
+	2016	10	8			"Asosan"	"Kyushu-Japan"	"Japan"	32.884	131.104	1592	"Caldera"		"T"								1										1		
+	2017	3	15			"Etna"	"Italy"	"Italy"	37.748	14.999	3320	"Stratovolcano"		"P"					10	1									10	1				
+	2017	4	13			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"	2	"P"								1		2								1		2
+	2017	6	6			"Fuego"	"Guatemala"	"Guatemala"	14.473	-90.88	3763	"Stratovolcano"	2	"P"								2										2		
+	2017	7	1			"Dieng Volcanic Complex"	"Java"	"Indonesia"	-7.2	109.879	2565	"Complex volcano"			8	1			11	1					8	1			11	1				
+	2017	9	12			"Campi Flegrei"	"Italy"	"Italy"	40.827	14.139	458	"Caldera"			3	1									3	1								
+	2017	9	23			"Ambae"	"Vanuatu-SW Pacific"	"Vanuatu"	-15.389	167.835	1496	"Shield volcano"		"T"								1										1		
+	2017	12	18			"Merapi"	"Java"	"Indonesia"	-7.54	110.446	2910	"Stratovolcano"		"A"	8	1			8	1					8	1			8	1				
+	2017	12	27			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"		"T"								2										2		
+	2018	1	5			"Kadovar"	"New Guinea-NE of"	"Papua New Guinea"	-3.608	144.588	365	"Stratovolcano"		"T"								1										1		
+	2018	1	13			"Mayon"	"Luzon-Philippines"	"Philippines"	13.257	123.685	2462	"Stratovolcano"		"T,P"					1972	4	3.564	2							1972	4	3.564	2		
+	2018	1	23			"Kusatsu-Shiranesan"	"Honshu-Japan"	"Japan"	36.618	138.528	2165	"Stratovolcano"		"T"	1	1			11	1		1			1	1			11	1		1		
+	2018	2	1			"Kilauea"	"Hawaiian Is"	"United States"	19.421	-155.287	1222	"Shield volcano"	1	"G"	1	1			3	1					1	1			3	1				
+	2018	2	9	5676		"Kadovar"	"New Guinea-NE of"	"Papua New Guinea"	-3.608	144.588	365	"Stratovolcano"		"W"																				
+	2018	3	21			"Ijen"	"Java"	"Indonesia"	-8.058	114.242	2769	"Stratovolcano"		"G"					30	1									30	1				
+	2018	3	30			"Ambae"	"Vanuatu-SW Pacific"	"Vanuatu"	-15.389	167.835	1496	"Shield volcano"	3	"T,G,M"	4	1						2		1	4	1						2		1
+	2018	4	28	5678	10332	"Kilauea"	"Hawaiian Is"	"United States"	19.421	-155.287	1222	"Shield volcano"	1	"L"					1	1	370	4	716	3					1	1	370	4	716	3
+	2018	5	6	5796	10556	"Sumisujima"	"Izu Is-Japan"	"Japan"	31.44	140.051	136	"Submarine volcano"		"S,W"																				
+	2018	6	3			"Fuego"	"Guatemala"	"Guatemala"	14.473	-90.88	3763	"Stratovolcano"	2	"P"	201	3	229	3	27	1	120	4	186	3	201	3	229	3	27	1	120	4	186	3
+	2018	7	16			"Kilauea"	"Hawaiian Is"	"United States"	19.421	-155.287	1222	"Shield volcano"		"T"					23	1	1	1							23	1	1	1		
+	2018	8	25			"Manam"	"New Guinea-NE of"	"Papua New Guinea"	-4.08	145.037	1807	"Stratovolcano"	4	"L,T"								3	164	3								3	164	3
+	2018	12	15		10382	"Ambrym"	"Vanuatu-SW Pacific"	"Vanuatu"	-16.25	168.12	1334	"Pyroclastic shield"	2	"S,T,G"								2		1								2		1
+	2018	12	22	5699		"Krakatau"	"Indonesia"	"Indonesia"	-6.102	105.423	155	"Caldera"	3	"W"											437	3	10	1	31943	4	250	4	2844	4
+	2018	12	26		10383	"Etna"	"Italy"	"Italy"	37.748	14.999	3320	"Stratovolcano"	2	"S"															28	1	115	4	15	1
+	2019	1	7			"Manam"	"New Guinea-NE of"	"Papua New Guinea"	-4.08	145.037	1807	"Stratovolcano"	4	"T"								1										1		
+	2019	5	7			"Sinabung"	"Sumatra"	"Indonesia"	3.17	98.392	2460	"Stratovolcano"		"T"								2										2		
+	2019	6	26			"Ulawun"	"New Britain-SW Pac"	"Papua New Guinea"	-5.05	151.33	2334	"Stratovolcano"		"P,T"					2	1	14	3							2	1	14	3		
+	2019	6	28			"Manam"	"New Guinea-NE of"	"Papua New Guinea"	-4.08	145.037	1807	"Stratovolcano"	4	"A,P,T"								2										2		
+	2019	7	3			"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"P,T"	1	1			1	1					1	1			1	1				
+	2019	8	28	5716		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"W"																				
+	2019	12	9			"Whakaari/White Island"	"New Zealand"	"New Zealand"	-37.52	177.18	294	"Stratovolcano"	2	"T"	22	1			25	1					22	1			25	1				
+	2020	1	12			"Taal"	"Luzon-Philippines"	"Philippines"	14.002	120.993	311	"Stratovolcano"	4	"T"	39	1					67	4	4573	4	39	1					67	4	4573	4
+	2020	5	29	5748	10501	"Ijen"	"Java"	"Indonesia"	-8.058	114.242	2769	"Stratovolcano"		"G,W, S"	1	1									1	1								
+	2021	3	5			"Sangay"	"Ecuador"	"Ecuador"	-2.005	-78.341	5286	"Stratovolcano"	2	"T"								2										2		
+	2021	3				"Pacaya"	"Guatemala"	"Guatemala"	14.382	-90.601	2569	"Complex volcano"	1	"L,T"								1										1		
+	2021	4	9			"Soufriere St. Vincent"	"W Indies"	"St. Vincent & the Grenadines"	13.33	-61.18	1220	"Stratovolcano"		"T"							325	4									325	4		
+	2021	5	22		10545	"Nyiragongo"	"Africa-C"	"Congo, DRC"	-1.52	29.25	3470	"Stratovolcano"	2	"L,I,S"	32	1						3	5000	4	32	1						3	5000	4
+	2021	9	19			"La Palma"	"Canary Is"	"Spain"	28.57	-17.83	2426	"Stratovolcano"		"L"	1	1					900	4	1345	4	1	1					900	4	1345	4
+	2021	12	4			"Semeru"	"Java"	"Indonesia"	-8.108	112.922	3657	"Stratovolcano"	3	"T"	51	1	9	1	169	3	20	3			45	1	9	1	169	3	20	3		
+	2022	1	13	5827		"Hunga Tonga-Hunga Ha'apai"	"Tonga-SW Pacific"	"Tonga"	-20.536	-175.382	114	"Submarine volcano"		"W"																				
+	2022	1	15	5824		"Hunga Tonga-Hunga Ha'apai"	"Tonga-SW Pacific"	"Tonga"	-20.536	-175.382	114	"Submarine volcano"	5	"W"								3			6	1			20	1	107.768	4	284	3
+	2022	1	16	5825		"Hunga Tonga-Hunga Ha'apai"	"Tonga-SW Pacific"	"Tonga"	-20.536	-175.382	114	"Submarine volcano"		"W"																				
+	2022	6	22			"Popocatepetl"	"Mexico"	"Mexico"	19.023	-98.622	5393	"Stratovolcano"	2	"P"	1	1									1	1								
+	2022	10	9	5865		"Stromboli"	"Italy"	"Italy"	38.789	15.213	924	"Stratovolcano"	2	"P,W"																				

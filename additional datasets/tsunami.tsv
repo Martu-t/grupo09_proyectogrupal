@@ -1,0 +1,208 @@
+"Search Parameters"	"Year"	"Mo"	"Dy"	"Hr"	"Mn"	"Sec"	"Tsunami Event Validity"	"Tsunami Cause Code"	"Earthquake Magnitude"	"Vol"	"More Info"	"Deposits"	"Country"	"Location Name"	"Latitude"	"Longitude"	"Maximum Water Height (m)"	"Number of Runups"	"Tsunami Magnitude (Abe)"	"Tsunami Magnitude (Iida)"	"Tsunami Intensity"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Houses Damaged"	"Houses Damaged Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"	"Total Houses Damaged"	"Total Houses Damaged Description"
+"[""2010 <= Year >= 2022""]"																																													
+	2010	1	2				2	9				0	"SOUTH KOREA"	"CHEJU (JEJU) STRAIT"				0				1	1											1	1										
+	2010	1	3	21	48	5.3	4	1	6.6			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-8.743	157.477	0.01	1																											
+	2010	1	3	22	36	27.9	4	1	7.1			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-8.799	157.346	7.52	51											1		1										1	16	1	60	2
+	2010	1	5	12	15	32.2	4	1	6.8			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-9.019	157.551	0.03	1																											
+	2010	1	12	21	53	10	4	3	7			0	"HAITI"	"HAITI & DOMINICAN REPUBLIC"	18.457	-72.533	3.21	25				7	1						1		1			316000	4			300000	4	8000	4	97294	4	188383	4
+	2010	2	26	20	31	26.9	3	1	7			0	"JAPAN"	"RYUKYU ISLANDS"	25.93	128.425	0.1	2																											
+	2010	2	27	6	34	11.5	4	1	8.8			4	"CHILE"	"CENTRAL CHILE"	-36.122	-72.898	29	659				156	3			12000	4	30000	4					558	3			12000	4	30000	4			500000	4
+	2010	3	11	14	39	43.9	4	1	6.9			0	"CHILE"	"CENTRAL CHILE"	-34.29	-71.891	0.14	2																							1				
+	2010	4	6	22	15	1.5	4	1	7.8			0	"INDONESIA"	"SUMATRA"	2.383	97.048	0.44	6																											
+	2010	4	13				0	8				0	"PERU"	"513 LAKE, HUALCAN GLACIER"	-9.282	-77.645	23	1				1	1						1	50	1			1	1						1	50	1		
+	2010	4	13				2	0				1	"COOK ISLANDS"	"MANGAIA ISLAND, COOK ISLANDS"	-21.955	-157.92		1																											
+	2010	5	29	11	46	50	4	6		5184		0	"USA TERRITORY"	"SOUTH OF SARIGAN IS, N. MARIANA IS"	16.708	145.97	0.04	1																											
+	2010	6	12	19	26	50.4	4	1	7.5			0	"INDIA"	"LITTLE NICOBAR ISLAND"	7.881	91.936	0.03	2																											
+	2010	8	10	5	23	44.9	4	1	7.2			0	"VANUATU"	"VANUATU ISLANDS"	-17.541	168.069	0.23	1																											
+	2010	8	13	21	19	33	4	1	6.9			0	"USA TERRITORY"	"GUAM, MARIANA ISLANDS"	12.484	141.476	0.07	1																											
+	2010	10	25	14	42	22	4	1	7.8			0	"INDONESIA"	"SUMATRA"	-3.487	100.082	16.9	358				431	3					39	4	700	3			431	3					39	4	700	3		
+	2010	12	21	17	19	40.6	4	1	7.4			0	"JAPAN"	"BONIN ISLANDS"	26.901	143.698	0.13	4																											
+	2010	12	25	13	16	37	4	1	7.3			0	"VANUATU"	"VANUATU ISLANDS"	-19.702	167.947	4.1	12								4	1		1									4	1		1				
+	2011	1	9	10	3	44.2	4	1	6.5			0	"VANUATU"	"VANUATU ISLANDS"	-19.157	168.311	0.03	1																											
+	2011	2	11	20	5	30.7	4	1	6.8			0	"CHILE"	"CENTRAL CHILE"	-36.474	-73.125	0.15	1																											
+	2011	2	17				4	8				0	"NORWAY"	"SVALBARD"	78.37	16.62	0.3	0																											
+	2011	2	21	23	51	42.3	2	3	6.1			0	"NEW ZEALAND"	"SOUTH ISLAND"	-43.583	172.68	3.5	1																185	3			1500	4	15000	4	100000	4		
+	2011	3	9	2	45	20.3	4	1	7.5			0	"JAPAN"	"HONSHU ISLAND"	38.435	142.842	0.6	11																											
+	2011	3	11	5	46	24.1	4	1	9.1			7	"JAPAN"	"HONSHU ISLAND"	38.297	142.372	39.26	6289				18428	4			6167	4	220136.6	4	123661	4	280920	4	18428	4			6167	4	220136.6	4	123661	4	280920	4
+	2011	4	7	14	32	43.2	4	1	7.1			0	"JAPAN"	"E. COAST HONSHU ISLAND"	38.276	141.588	0.08	1																3	1			132	3		1				
+	2011	5	10	8	55	9	4	1	6.8			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-20.244	168.226	0.03	1																											
+	2011	6	24	3	9	39.4	4	1	7.3			0	"USA"	"ATKA, ALEUTIAN ISLANDS, AK"	52.05	-171.836	0.1	7																											
+	2011	6	27				2	9				0	"UK"	"PLYMOUTH, ENGLAND"	50.5	-3	0.4	4																											
+	2011	7	6	19	3	18.2	4	1	7.6			0	"NEW ZEALAND"	"KERMADEC ISLANDS"	-29.539	-176.34	1.2	24																											
+	2011	7	10	0	57	10.8	4	1	7			0	"JAPAN"	"OFF EAST COAST OF HONSHU ISLAND"	38.034	143.264	0.09	1																											
+	2011	7	30	5	30		3	8				0	"NORWAY"	"LYSEFJOREN, WESTERN NORWAY"	59.05	6.64	1.5	1											1												1				
+	2011	8	6	12	55		3	8				0	"NORWAY"	"LYSEFJOREN, WESTERN NORWAY"	59.05	6.64		0																											
+	2011	8	20	16	55	2.5	4	1	7.1			0	"VANUATU"	"VANUATU ISLANDS"	-18.365	168.143	0.19	4																											
+	2011	8	20	18	19	23.5	4	1	7			0	"VANUATU"	"VANUATU ISLANDS"	-18.311	168.218	0.15	1																											
+	2011	9	2	10	55	53.5	4	1	6.8			0	"USA"	"FOX ISLANDS, ALEUTIAN ISLANDS, AK"	52.171	-171.708	0.06	1																											
+	2011	10	21	17	57	16.1	4	1	7.4			0	"NEW ZEALAND"	"KERMADEC ISLANDS"	-28.993	-176.238	0.14	3																											
+	2012	2	2	13	34	40.6	4	1	7			0	"VANUATU"	"VANUATU ISLANDS"	-17.827	167.133	0.08	1																											
+	2012	3	9	7	9	50.9	4	1	6.7			0	"VANUATU"	"OFF EAST COAST OF VANUATU"	-19.125	169.613	0.05	2																											
+	2012	3	14	9	8	35.1	4	1	6.9			0	"JAPAN"	"HOKKAIDO ISLAND"	40.887	144.944	0.2	2																											
+	2012	3	20	18	2	47.4	4	1	7.4			0	"MEXICO"	"S. MEXICO"	16.493	-98.231	0.2	2																2	1			13	1	600	4	800	3		
+	2012	4	11	8	38	36.7	4	1	8.6			0	"INDONESIA"	"OFF W. COAST OF N SUMATRA"	2.327	93.063	1.08	25																10	1			12	1		1				2
+	2012	4	11	10	43	10.8	4	1	8.2			0	"INDONESIA"	"OFF W. COAST OF N SUMATRA"	0.802	92.463		4																											
+	2012	4	14	22	5	26.4	4	1	6.3			0	"VANUATU"	"VANUATU ISLANDS"	-18.972	168.741		1																											
+	2012	7	15				4	8				0	"GREENLAND"	"ILULISSAT ICEFJORD, GREENLAND"	69.2	-51.3		0																											
+	2012	8	27	4	37	19.4	4	1	7.3			0	"EL SALVADOR"	"EL SALVADOR-NICARAGUA"	12.139	-88.59	6.3	38								40	1		1									40	1		1				
+	2012	8	31	12	47	33.3	4	1	7.6			0	"PHILIPPINES"	"PHILIPPINE ISLANDS"	10.811	126.638	0.15	17																1	1			1	1	0.3	1		1		
+	2012	9	5	14	42	7.8	4	1	7.6			0	"COSTA RICA"	"COSTA RICA"	10.085	-85.315	0.16	4																2	1			20	1		1		2		
+	2012	10	28	3	4	8.8	4	1	7.7			0	"CANADA"	"BRITISH COLUMBIA"	52.788	-132.101	12.98	178				1	1											1	1										
+	2012	11	7	16	35	46.9	4	1	7.3			0	"GUATEMALA"	"GUATEMALA"	13.988	-91.895	0.35	7																48	2			155	3	210	4	2769	4	7561	4
+	2012	12	7	8	18	23.1	4	1	7.2			0	"JAPAN"	"OFF EAST COAST OF HONSHU ISLAND"	37.89	143.949	1	3																				11	1						
+	2012	12	28				0	8				0	"CHINA"	"ZHAOJUN BRIDGE, HUBEI PROVINCE"	31.256	110.733		0																											
+	2013	1	5	8	58	19.3	4	1	7.5			0	"USA"	"SE. ALASKA, AK"	55.393	-134.652	1.5	8											1												1				
+	2013	2	6	1	12	25.8	4	1	7.9			0	"SOLOMON ISLANDS"	"SANTA CRUZ ISLANDS"	-10.766	165.114	11	124				10	1			15	1		3	588	3	478	3	10	1			15	1	36	4	588	3	478	3
+	2013	2	8	15	26	38.4	4	1	7			0	"SOLOMON ISLANDS"	"SANTA CRUZ ISLANDS"	-10.928	166.018	0.09	1																											
+	2013	4	19	3	5	52.6	2	1	7.2			0	"RUSSIA"	"S. KURIL ISLANDS"	46.221	150.788	0.2	1																											
+	2013	4	22	1	16	32	3	1	6			0	"MEXICO"	"MEXICO"	18.081	-102.182	0.13	1																											
+	2013	6	13				4	9				0	"USA"	"NORTHWEST ATLANTIC OCEAN"			1.8	38								2	1											2	1						
+	2013	6	15	16	11	2	3	1	6.2			0	"GREECE"	"CRETE"	34.4	25.02	0.01	1																											
+	2013	7	21	5	9	31.4	4	1	6.5			0	"NEW ZEALAND"	"COOK STRAIT"	-41.704	174.337	0.07	2																				5	1		1			35	1
+	2013	8	16	2	31	47	4	1	6.5			0	"NEW ZEALAND"	"WELLINGTON"	-41.731	174.027	0.08	2																							1				2
+	2013	9	24				4	3				0	"PAKISTAN"	"OFF COAST GWADAR"	25.18	62.26	0.57	11																825	3			619	3		4	32638	4	14118	4
+	2013	10	12	13	11	35	4	1	6.6			0	"GREECE"	"CRETE"	35.514	23.252	0.01	1																				1	1		1				1
+	2013	10	25	17	10	0	4	1	7.1			0	"JAPAN"	"E. COAST HONSHU ISLAND"	37.2	144.6	0.4	9																				1	1						
+	2013	11	17	9	4	53	4	1	7.7			0	"ANTARCTICA"	"SCOTIA SEA"	-60.274	-46.401	0.15	2																											
+	2014	3	16	21	16	0	4	1	6.7			0	"CHILE"	"NORTHERN CHILE"	-19.965	-70.814	0.26	7																							1				
+	2014	4	1	23	46	26	4	1	8.2			0	"CHILE"	"NORTHERN CHILE"	-19.61	-70.769	4.63	201											1					7	1					100	4			2600	4
+	2014	4	3	2	43	11	4	1	7.7			0	"CHILE"	"NORTHERN CHILE"	-20.571	-70.493	0.74	5																											
+	2014	4	12	20	14	3	4	1	7.6			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-11.27	162.148	0.05	8																											
+	2014	4	13	12	36	23	4	1	7.4			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-11.463	162.051	0.16	9																											
+	2014	4	18	14	28	32	4	1	7.2			0	"MEXICO"	"S. MEXICO"	17.397	-100.972	0.43	3																							1			127	2
+	2014	4	19	13	29	21	4	1	7.5			0	"PAPUA NEW GUINEA"	"SOLOMON SEA"	-6.755	155.024	0.11	1																											
+	2014	5	24	9	25	5	4	1	6.9			0	"GREECE"	"NORTH AEGEAN SEA"	40.24	25.33	0.16	1																3	1			310	3	4500	4		1		2
+	2014	6	23	19	20	34	4	1	6.9			0	"NEW ZEALAND"	"S OF RAOUL ISLAND, KERMADEC ISLANDS"	-29.977	-177.725	0.13	5																											
+	2014	6	23	20	53	7	4	1	7.9			0	"USA"	"ALEUTIAN ISLANDS, AK"	51.849	178.735	0.17	20																											
+	2014	6	23				4	9				0	"SPAIN"	"MEDITERRANEAN AND BLACK SEAS"			2.5	5								15	1		1									15	1		1				
+	2014	6	27	10	37		4	8				0	"UKRAINE"	"ODESSA"	46.32	30.67	2	0																											
+	2014	7	2	14	6		4	8				0	"GREENLAND"	"ILULISSAT ICEFJORD, GREENLAND"	69.8	-50.217	10	1											1												1				
+	2014	7	11	19	23	22	4	1	6.5			0	"JAPAN"	"SANRIKU"	37.005	142.453	0.2	6																											
+	2014	7	21	23	24		0	8				0	"ICELAND"	"ASKJA LAKE"	65.02	-16.7	60	1																											
+	2014	7	25	10	55	12	4	1	6.1			0	"USA"	"PALMA BAY, AK"	58.306	-136.96	0.08	1																											
+	2014	10	9	2	14	44	4	1	7			0	"CHILE"	"EASTER ISLAND REGION"	-32.108	-110.811	0.47	5																											
+	2014	10	14	3	51	46	4	1	7.3			0	"EL SALVADOR"	"GULF OF FONSECA"	12.526	-88.123	0.02	2																1	1						1	5	1	41	1
+	2014	11	15	2	32	12	3	1	7.1			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.893	126.522	0.09	3																											
+	2015	2	16	23	6	27	4	1	6.7			0	"JAPAN"	"HONSHU"	39.856	142.881	0.27	3																											
+	2015	2	19	13	18	32	4	1	6.4			0	"VANUATU"	"VANUATU ISLANDS"	-16.431	168.148	8	6											1												1				1
+	2015	3	29	23	48	1	4	1	7.5			0	"PAPUA NEW GUINEA"	"BISMARCK SEA"	-4.729	152.562	0.5	2																											
+	2015	5	2	16	51	39	3	1	5.7	7537		0	"JAPAN"	"S. OF HONSHU ISLAND"	31.529	140.213	0.6	3																											
+	2015	5	5	1	44	38	3	1	7.5			0	"PAPUA NEW GUINEA"	"NEW BRITAIN"	-5.462	151.875	1	1																							1				1
+	2015	5	10				4	8				0	"NORWAY"	"NORTHERN NORWAY"	69.8	20.92		0																							1				
+	2015	6	24				0	8				0	"CHINA"	"WUSHAN, CHONGQING"	31.077	109.896	6.2	1				2	1			4	1		2					2	1			4	1		2				
+	2015	7	1				3	9				0	"SCOTLAND"	"NORTH SEA"			0.18	3								1	1		1									1	1		1				
+	2015	7	10	4	12	54	4	1	6.7			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-9.307	158.403	0.01	1																											
+	2015	7	18	2	28	22	4	1	7			0	"SOLOMON ISLANDS"	"SANTA CRUZ ISLANDS"	-10.401	165.141	0.09	5																											
+	2015	7	27	4	49	0	4	1	6.9			0	"USA"	"FOX ISLANDS, ALEUTIAN ISLANDS, AK"	52.214	-169.399	0.08	2																											
+	2015	9	16	22	55	26	4	1	8.3			1	"CHILE"	"CENTRAL CHILE"	-31.573	-71.674	13.6	1094		8.4		8	1						1					15	1	1	1	14	1	600	4	2305	4	10044	4
+	2015	10	18	5	19		4	8				1	"USA"	"ICY BAY, AK"	60.08	-141.3	193	3																											
+	2015	11	11	1	54	0	4	1	6.9			0	"CHILE"	"CENTRAL CHILE"	-29.46	-72.12	0.55	2																											
+	2015	11	13	20	51	3	4	1	6.7			0	"JAPAN"	"JAPAN"	31.001	128.873	0.3	1																											
+	2015	11	17	7	10	3	4	3	6.5			0	"GREECE"	"IONIAN SEA"	38.67	20.6	0.15	1																2	1			4	1		2	1	1		2
+	2015	11	18	18	31	57	4	1	6.8			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-8.899	158.422	0.1	1																											
+	2016	1	25	4	23	13	4	1	6.3			0	"MOROCCO"	"MOROCCO"	35.649	-3.682	0.02	2																1	1			26	1		1		1		1
+	2016	3	2	12	49	11	4	1	7.8			0	"INDONESIA"	"SW. SUMATRA"	-4.952	94.33	0.21	13																											
+	2016	4	16	23	58	0	4	1	7.8			0	"ECUADOR"	"OFF COAST"	0.35	-80.16	0.6	7																663	3	9	1	6274	4	3300	4	6998	4	29672	4
+	2016	4	28	19	33	7	3	1	7			0	"VANUATU"	"VANUATU ISLANDS"	-16.043	167.379	0.02	2																											
+	2016	8	12	1	26	28	4	1	7.2			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-22.477	173.117	0.19	1																											
+	2016	8	19	7	33	11	3	1	7.4			0	"UK TERRITORY"	"SOUTHERN ATLANTIC OCEAN"	-55.285	-31.877	0.1	1																											
+	2016	8	20	9	1	26	4	1	6			0	"JAPAN"	"SANRIKU"	40.394	143.68	0.01	0																											
+	2016	9	1	16	37	3	4	1	7			0	"NEW ZEALAND"	"GISBORNE"	-37.359	179.146	0.21	4																											
+	2016	11	13	11	2	34	4	1	7.8			1	"NEW ZEALAND"	"OFF EAST COAST OF SOUTH ISLAND"	-42.737	173.054	6.9	17											1	1	1			2	1					3900	4	1	1		1
+	2016	11	21	20	59	27	4	1	6.9			0	"JAPAN"	"E. COAST HONSHU ISLAND"	37.393	141.387	1.44	9											1										1		1				
+	2016	11	24	18	43	0	4	1	6.9			0	"NICARAGUA"	"NICARAGUA"	11.96	-88.835	0.08	3																											
+	2016	12	8	17	38	28	4	1	7.8			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-10.681	161.327	0.43	11																1	1						1	191	3	126	3
+	2016	12	9	19	11	24	4	1	6.9			0	"SOLOMON ISLANDS"	"SOLOMON ISLANDS"	-10.749	161.132	0.05	5																											
+	2016	12	17	10	51	5	4	1	7.9			0	"PAPUA NEW GUINEA"	"SOLOMON SEA"	-4.505	153.522	0.08	5																											
+	2016	12	25	14	22	0	4	1	7.6			0	"CHILE"	"SOUTHERN CHILE"	-43.517	-74.391	0.44	4																							1				
+	2017	1	3	21	53	7	4	1	6.9			0	"FIJI"	"FIJI ISLANDS"	-19.373	176.052	0.01	1																											
+	2017	1	22	4	31	36	4	1	7.9			0	"PAPUA NEW GUINEA"	"BOUGAINVILLE ISLAND"	-6.246	155.172	0.04	1																3	1						1		3		
+	2017	3	19	4	30		4	9				0	"IRAN"	"PERSIAN GULF"	27.835	51.94	3	27				5	1			20	1	10	3	85	2			5	1			20	1	10	3	85	2		
+	2017	4	24	21	39	22	4	1	6.9			0	"CHILE"	"CENTRAL CHILE"	-33.038	-72.062	0.16	4																											
+	2017	4	28	20	23	26	4	1	6.9			0	"PHILIPPINES"	"SOCCSKSARGEN, PHILIPPINES"	5.504	125.066	0.2	1								2	1											7	1		1	1	1		1
+	2017	5	1	12	31	3	4	1	6.2			0	"USA"	"SKAGWAY, AK"	59.852	-136.677	0.06	1																											
+	2017	5	29	3	45		3	9				0	"NETHERLANDS"	"NORTH SEA"			2	2											1												1				
+	2017	6	12	12	28	15	4	1	6.3			0	"GREECE"	"LESBOS"	38.93	26.365	0.4	1																1	1			15	1		2	10	1	250	3
+	2017	6	17	23	39	17	4	8				0	"GREENLAND"	"KARRAT FJORD, GREENLAND"	71.813	-52.569	90	5				4	1			9	1		1	11	1		1	4	1			9	1		1	11	1		1
+	2017	7	17	23	35	14	4	1	7.7			0	"RUSSIA"	"BERING ISLAND"	54.443	168.857	0.1	1																											
+	2017	7	19	12	50	0	4	8				0	"COLOMBIA"	"OFF THE COAST NEAR SANTA MARTA"	11	-74.3	8	7											1	1	1		1								1	1	1		1
+	2017	7	20	22	31	26	4	1	6.6			0	"TURKEY"	"GULF OF GÖKOVA"	36.929	27.414	1.9	40											1					2	1			500	3		2		1		1
+	2017	9	8	4	49	2	4	1	8.2			1	"MEXICO"	"S. MEXICO"	14.761	-94.103	2.7	68											1					98	2			251	3	4000	4	47468	4	94027	4
+	2017	10	31	0	43	12	4	1	6.7			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.697	169.149	0.15	4																											
+	2017	11	1	2	24	7	4	1	6.6			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.648	168.859	0.1	4																											
+	2017	11	5	9	0	0	0	8				0	"VIETNAM"	"QUANG NAM"	15.317	108.249	8.5	1				1	1			3	1		1	3	1	3	1	1	1			3	1		1	3	1	3	1
+	2017	11	19	9	26	13	4	1	6.3			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.638	168.673	0.05	1																											
+	2017	11	19	15	10	28	4	1	6.6			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.503	168.598	0.08	1																											
+	2017	11	19	22	43	25	4	1	7			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.325	168.672	0.37	5																											
+	2017	12	8				3	0				0	"KERMADEC ISLANDS"	"KERMADEC ISLANDS"	-30	-179	0.5	6																											
+	2018	1	10	2	51	29	4	1	7.5			0	"HONDURAS"	"OFF COAST OF HONDURAS"	17.483	-83.52	0.4	8																							1			7	1
+	2018	1	14	9	18	0	4	1	7.1			0	"PERU"	"S. PERU"	-15.982	-74.512	0.15	4																											
+	2018	1	23	9	32	29	4	1	7.9			0	"USA"	"KODIAK ISLAND, AK"	56.004	-149.166	0.25	64																							1				
+	2018	2	9				4	6		7104		0	"PAPUA NEW GUINEA"	"KADOVAR ISLAND, PAPUA NEW GUINEA"	-3.608	144.588	1	1																											
+	2018	5	4	22	32	37	4	4	6.9	6864		0	"USA"	"HAWAII"	19.313	-154.998	0.4	7																				1	1	370	4	716	3		
+	2018	5	6	6	3	33	4	1	5.4	7541		0	"JAPAN"	"S. OF HONSHU ISLAND"	31.444	140.193	0.15	1																											
+	2018	5	15				4	9				0	"USA"	"NORTHEAST U.S.A."			0.22	10																							1				
+	2018	7	16				3	9				0	"SPAIN"	"BALEARIC ISLANDS"			0.75	3				1	1						1					1	1						1				
+	2018	7	28	22	48	14	3	1	6.4			0	"INDONESIA"	"BALI SEA"	-8.24	116.508	2.5	2											1		1			17	1			355	3		3	5448	4		3
+	2018	8	5	11	47	3	4	1	6.9			0	"INDONESIA"	"BALI SEA"	-8.258	116.438	2	6																560	3			7733	4	509	4		3	83392	4
+	2018	8	19	0	20	7	4	1	8.2			0	"FIJI"	"FIJI ISLANDS"	-18.113	-178.153		0																											
+	2018	8	19	4	11	4	3	1	6.3			0	"INDONESIA"	"BALI SEA"	-8.337	116.599		0																2	1			1	1		2			1705	4
+	2018	8	21	21	31	6	2	1	7.3			0	"VENEZUELA"	"SUCRE"	10.773	-62.902		1																5	1						2				3
+	2018	8	29	3	51	1	4	1	7.1			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-22.03	170.126	0.27	7																											
+	2018	9	28	10	2	25	4	3	7.5			2	"INDONESIA"	"SULAWESI"	-0.256	119.846	10.73	291				4340	4	667	3	10679	4	1500	4	3673	4	39191	4	4340	4	667	3	10679	4	1500	4	3673	4	39191	4
+	2018	10	16	1	3	58	4	1	6.5			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.743	169.522	0.05	1																											
+	2018	10	25	22	55	3	4	1	6.8			0	"GREECE"	"IONIAN SEA"	37.52	20.557	0.5	9																				3	1		2			120	3
+	2018	12	5	4	18	42	4	1	7.5			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-21.95	169.427	2	34											1				1								1				1
+	2018	12	11	4	48		0	8				0	"RUSSIA"	"BUREYA, FAR EASTERN RUSSIA"	50.559	131.472	90	49																											
+	2018	12	22	13	55		4	7		7264		2	"INDONESIA"	"KRAKATAU"	-6.102	105.423	85	410				437	3	10	1	31943	4	250	4		3	2844	4	437	3	10	1	31943	4	250	4		3	2844	4
+	2019	3	20				3	9				0	"JAPAN"	"NAGASAKI, JAPAN"			2.9	2											2												2				
+	2019	4	14	23	17		4	9				0	"USA"	"LAKE ERIE"			1.75	2											1												1				
+	2019	5	14	12	58	25	2	1	7.6			0	"PAPUA NEW GUINEA"	"RABAUL, NEW BRITAIN"	-4.051	152.597		0																					1		1		1		1
+	2019	6	14	0	19	12	4	1	6.4			0	"CHILE"	"CENTRAL CHILE"	-30.056	-72.082	0.07	1																											
+	2019	6	15	22	55	2	4	1	7.2			0	"NEW ZEALAND"	"S OF RAOUL ISLAND, KERMADEC ISLANDS"	-30.805	-178.095	0.14	7																											
+	2019	6	18	13	22	19	4	1	6.4			0	"JAPAN"	"NIIGATA"	38.646	139.472	0.1	5																				28	1		2			144	3
+	2019	8	28				3	6		7424		0	"ITALY"	"STROMBOLI ISLAND"	38.789	15.213	0.3	1																											
+	2019	11	14	16	17	40	4	1	7.1			0	"INDONESIA"	"N. MOLUCCAS ISLANDS"	1.6	126.416	0.11	8																1	1			3	1		1			36	1
+	2020	1	7	8	24	26	4	1	6.4			0	"USA TERRITORY"	"PUERTO RICO"	17.916	-66.813	0.06	6																4	1				1	800	4	300	3	1390	4
+	2020	1	28	19	10	25	4	1	7.7			0	"CUBA"	"OFF SE COAST"	19.44	-78.755	0.11	2																							2	1	1		3
+	2020	3	25	2	49	21	4	1	7.5			0	"RUSSIA"	"N. KURIL ISLANDS"	48.986	157.693	0.5	11																											
+	2020	4	23				4	9				0	"USA"	"GULF OF MEXICO"			0.5	1																											
+	2020	5	2	12	51	6	4	1	6.6			0	"GREECE"	"CRETE"	34.205	25.712	0.95	15																											
+	2020	5	29	5	30		0	4		7504		0	"INDONESIA"	"LESSER SUNDA: BALI: IJEN VOLCANO"	-8.058	114.242	3	1																1	1										
+	2020	6	13				4	9				0	"USA"	"GULF OF MEXICO"			0.5	1																											
+	2020	6	18	12	49	53	4	1	7.4			0	"NEW ZEALAND"	"S OF RAOUL ISLAND, KERMADEC ISLANDS"	-33.294	-177.838	0.11	4																											
+	2020	6	23	15	29	5	4	1	7.4			0	"MEXICO"	"OFF OF COAST OF OAXACA"	16.029	-95.901	1.57	9																10	1			24	1		4			8123	4
+	2020	7	22	6	12	44	4	1	7.8			0	"USA"	"SHUMAGIN ISLANDS, AK"	55.03	-158.522	0.24	9																							1				
+	2020	10	19	20	54	39	4	1	7.6			0	"USA"	"SHUMAGIN ISLANDS, AK"	54.608	-159.655	0.76	17																											
+	2020	10	30	11	51	27	4	1	7			0	"TURKEY"	"AEGEAN SEA"	37.918	26.79	5.3	272				1	1				1		2				1	118	3			1054	4	400	4		2		4
+	2020	11	14	15	0	0	4	8				0	"SPAIN"	"VALLE GRAN REY, LA GOMERA ISLAND"	28.08	-17.325	0.5	1																											
+	2020	11	28				0	8				1	"CANADA"	"ELLIOT CREEK, BC"	50.97	-124.6		0																											
+	2020	12	27	21	39	14	4	1	6.7			0	"CHILE"	"CENTRAL CHILE"	-39.343	-74.99	0.16	1																											
+	2021	1	23	23	36	50	4	1	6.9			0	"ANTARCTICA"	"SCOTIA SEA"	-61.825	-55.494	0.04	2																											
+	2021	2	10	13	19	55	4	1	7.7			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-23.054	171.601	0.78	20																											
+	2021	2	13	14	7	50	4	1	7.1			0	"JAPAN"	"OFF FUKUSHIMA PREFECTURE"	37.745	141.749	0.1	4																1	1			186	3	7700	4	798	3	19758	4
+	2021	3	4	13	27	36	4	1	7.3			0	"NEW ZEALAND"	"GISBORNE"	-37.563	179.444	0.28	9																											
+	2021	3	4	17	41	25	4	1	7.4			0	"NEW ZEALAND"	"S OF RAOUL ISLAND, KERMADEC ISLANDS"	-29.613	-177.843	0.31	8																											
+	2021	3	4	19	28	31	4	1	8.1			0	"NEW ZEALAND"	"S OF RAOUL ISLAND, KERMADEC ISLANDS"	-29.74	-177.267	1	84																											
+	2021	3	18	0	4	6	4	1	6			0	"ALGERIA"	"N. ALGERIA"	36.915	5.199	0.06	4																				17	1		1				1
+	2021	6	16	4	43	7	4	3	5.8			0	"INDONESIA"	"BANDA SEA"	-3.593	129.503	0.51	3																							1				1
+	2021	7	29	6	15	47	4	1	8.2			0	"USA"	"KODIAK ISLAND, AK"	55.325	-157.841	0.42	40																											
+	2021	8	11	17	46	14	4	1	7.1			0	"PHILIPPINES"	"MINDANAO ISLAND, PHILIPPINES"	6.455	126.742	0.05	2																1	1										
+	2021	8	12	18	35	20	4	1	8.1			0	"UK TERRITORY"	"SOUTHERN ATLANTIC OCEAN"	-58.416	-25.321	0.64	52																											
+	2021	8	14	12	29	8	4	1	7.2			0	"HAITI"	"PORT-AU-PRINCE"	18.408	-73.475		3																2248	4	329	3	12763	4	1600	4	53815	4	83770	4
+	2021	9	8	1	47	47	4	1	7			0	"MEXICO"	"S. MEXICO"	16.982	-99.773	0.48	1																3	1				1	200	4			7317	4
+	2021	10	12	9	24	3	2	1	6.4			0	"GREECE"	"CRETE"	35.193	26.256		0																							1				1
+	2021	12	14	3	20	24	4	1	7.3			0	"INDONESIA"	"FLORES SEA"	-7.603	122.2	0.07	2																				1	1		2	41		200	3
+	2022	1	13				4	6		7554		0	"TONGA"	"TONGA ISLANDS"	-20.536	-175.382	0.15	1																											
+	2022	1	15	4	14	45	4	6		7551		0	"TONGA"	"TONGA ISLANDS"	-20.536	-175.382	15	545				6	1			20	1		4	284	3	182	3	6	1			20	1	107.768	4	284	3	182	3
+	2022	1	16				4	6		7552		0	"TONGA"	"TONGA ISLANDS"	-20.536	-175.382	0.36	1																											
+	2022	1	29	2	46	39	4	1	6.5			0	"NEW ZEALAND"	"KERMADEC ISLANDS"	-29.531	-176.749	0.1	1																											
+	2022	3	16	14	36	33	4	1	7.3			0	"JAPAN"	"OFF FUKUSHIMA PREFECTURE"	37.702	141.587	0.3	5																4	1			107	3		2				
+	2022	3	30	20	56	58	4	1	6.9			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-22.716	170.286	0.07	3																											
+	2022	3	31	5	44	1	4	1	7			0	"NEW CALEDONIA"	"LOYALTY ISLANDS"	-22.579	170.354	0.05	1																											
+	2022	5	25	21	43	2	3	1	5.5			0	"MEXICO"	"S. MEXICO"	16.325	-95.856	0.24	4																											
+	2022	7	27	0	43	24	4	1	7			0	"PHILIPPINES"	"N. LUZON ISLAND"	17.56	120.801	0.08	1																11	1			609	3	48.48	4	856	3	35924	4
+	2022	9	19	18	5	6	4	1	7.6			0	"MEXICO"	"MEXICO"	18.367	-103.252	0.79	14																2	1				1		4	800	3	6084	4
+	2022	9	22	6	16	9	2	1	6.8			0	"MEXICO"	"S. MEXICO"	18.308	-102.923	0.09	3																2	1			3	1		2				
+	2022	10	9	7	23		4	6		7557		0	"ITALY"	"STROMBOLI ISLAND"	38.789	15.213	0.04	2																											
+	2022	11	11	10	48	45	4	1	7.3			0	"TONGA"	"TONGA ISLANDS"	-19.318	-172.1		4																											
