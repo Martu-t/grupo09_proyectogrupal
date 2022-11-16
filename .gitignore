@@ -8,3 +8,6 @@
 
 # Ignora archivos de configuración SASS
 .sass-cache
+
+#ignore csv
+*.csv
