@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:13
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: user
+      POSTGRES_DB: db
+    ports:
+      - 5432:5432
+    
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: fabianrueda.personalcount@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: password
+      POSTGRES_USER: user
+    ports:
+      - 5555:80 
+    depends_on:
+      - db
+    
