@@ -4,7 +4,7 @@
 
 We provide an English (ENG) and spanish (SPA) version so can be useful for more people.
 
-    - ENG
+            ENG
 1. id: Unique identifier for a specific version of data row
 
 2. mag: magnitud of the event. For more info please refer to: https://www.usgs.gov/programs/earthquake-hazards/
@@ -62,61 +62,61 @@ earthquake-magnitude-energy-release-and-shaking-intensity
 
 28. geometry* add with geopandas
 
-    - SPA
-1. id: Identificador único para cada fila
+            SPA
++ id: Identificador único para cada fila
 
-2. mag: magnitud del evento. Para más información entrar a: https://www.usgs.gov/programs/earthquake-hazards/
++ mag: magnitud del evento. Para más información entrar a: https://www.usgs.gov/programs/earthquake-hazards/
 earthquake-magnitude-energy-release-and-shaking-intensity
 
-3. place: se utiliza GeoNames datast para hacer referencia a lugares poblados cercanos al envento sísmico
++ place: se utiliza GeoNames datast para hacer referencia a lugares poblados cercanos al envento sísmico
 
-4. time: hora en formato unix
++ time: hora en formato unix
 
-5. updated: última hora de actualización
++ updated: última hora de actualización
 
-6. tz: Zona horaria (tomando sistema UTC) convertido a minutos del epicentro del sismo 
++ tz: Zona horaria (tomando sistema UTC) convertido a minutos del epicentro del sismo 
 
-7. url: url de donde se obtienen los datos
++ url: url de donde se obtienen los datos
 
-8. detail: consulta utilizada en la API para obtener los datos
++ detail: consulta utilizada en la API para obtener los datos
 
-9. felt: número total reportado de sensación del sismo (registros hechos la página: https://earthquake.usgs.gov/data/dyfi )
++ felt: número total reportado de sensación del sismo (registros hechos la página: https://earthquake.usgs.gov/data/dyfi )
 
-10. cdi: Máximo de intensidad reportado para el sismo. Generalmente se reporta en números romanos, pero para practicidad, la API envïa el número decimal equivalente al nümero romano. Para mäs informaciön entrar a: https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity
++ cdi: Máximo de intensidad reportado para el sismo. Generalmente se reporta en números romanos, pero para practicidad, la API envïa el número decimal equivalente al nümero romano. Para mäs informaciön entrar a: https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity
 
-11. mmi: promedio registrado medido en la escala sismológica de Mercalli. Para más información entrar en: https://www.usgs.gov/programs/earthquake-hazards/modified-mercalli-intensity-scale
++ mmi: promedio registrado medido en la escala sismológica de Mercalli. Para más información entrar en: https://www.usgs.gov/programs/earthquake-hazards/modified-mercalli-intensity-scale
 
-12. alert: Grado de respuesta sugerido, siendo posibles 'green' (verde) = no se necesita respuesta; 'yellow' (amarillo) = local/regional, 'orange' (naranja) = nacional, 'red' (rojo) = internacional
++ alert: Grado de respuesta sugerido, siendo posibles 'green' (verde) = no se necesita respuesta; 'yellow' (amarillo) = local/regional, 'orange' (naranja) = nacional, 'red' (rojo) = internacional
 
-13. status: estado de los datos al momento de descargar la información. En caso de figurar 'DELETE' esa url no se encontrarä más disponible.
++ status: estado de los datos al momento de descargar la información. En caso de figurar 'DELETE' esa url no se encontrarä más disponible.
 
 
-14. tsunami: utiliza "1" para eventos grandes en zonas oceánicas y "0" para otras zonas. La existencia del valor no implica que haya habido o que habrá un tsunami.
++ tsunami: utiliza "1" para eventos grandes en zonas oceánicas y "0" para otras zonas. La existencia del valor no implica que haya habido o que habrá un tsunami.
 
-15. sig: identificador único asignado por la fuente que informa el evento
++ sig: identificador único asignado por la fuente que informa el evento
 
-16. net: ID del contribuidor. Se identifica quien es la fuente más recomendable para informar sobre el evento.
++ net: ID del contribuidor. Se identifica quien es la fuente más recomendable para informar sobre el evento.
 
-17. code: cödigo identificatorio (único) correspondiente a la fuente para el evento
++ code: cödigo identificatorio (único) correspondiente a la fuente para el evento
 
-18. ids: lista de valores con ids asociadas al evento
++ ids: lista de valores con ids asociadas al evento
 
-19. sources: lista de contribuidores
++ sources: lista de contribuidores
 
-20. types: todas los tipos o categoría de eventos
++ types: todas los tipos o categoría de eventos
 
-21. nst: número total de estaciones sísmicas usadas para determinar la localización del terremoto
++ nst: número total de estaciones sísmicas usadas para determinar la localización del terremoto
 
-22. dmin: Distancia horizontal desde el epicentro a la estación más cercana (en grados). 1 grado es apróximadamente 111.2 kilómetros. En general cuanto menor es este número, mäs confiable es el cálculo de profundidad del terremoto
++ dmin: Distancia horizontal desde el epicentro a la estación más cercana (en grados). 1 grado es apróximadamente 111.2 kilómetros. En general cuanto menor es este número, mäs confiable es el cálculo de profundidad del terremoto
 
-23. rms: raíz cuadrática medio en segundos. Este parámetro proporciona una medida de ajuste de los tiempos de llegada observados a los tiempos de llegada predichos en dicha localización. Números pequeños reflejan un mejor ajuste de datos. El valor depende de la precisión del modelo de velocidad utilizado para calcular la ubicación del terremoto, los pesos asignados a la calidad de los datos de la hora de llegada, y el procedimiento utilizado para localizar el terremoto.
++ rms: raíz cuadrática medio en segundos. Este parámetro proporciona una medida de ajuste de los tiempos de llegada observados a los tiempos de llegada predichos en dicha localización. Números pequeños reflejan un mejor ajuste de datos. El valor depende de la precisión del modelo de velocidad utilizado para calcular la ubicación del terremoto, los pesos asignados a la calidad de los datos de la hora de llegada, y el procedimiento utilizado para localizar el terremoto.
 
-24. gap: La mayor distancia azmutual de la estación (en grados)
++ gap: La mayor distancia azmutual de la estación (en grados)
 
-25. magType: Método utilizado para calcular la magnitud preferente del evento
++ magType: Método utilizado para calcular la magnitud preferente del evento
 
-26. type: Tipo de evento sísmico
++ type: Tipo de evento sísmico
 
-27. title: título de la página/noticia
++ title: título de la página/noticia
 
-28. geometry* agregado con geopandas
++ geometry* agregado geopandas
