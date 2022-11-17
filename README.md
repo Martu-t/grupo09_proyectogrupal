@@ -11,35 +11,36 @@
 </p>
 
 
-## *** Entendimiento de la situación: ***
+## Entendimiento de la situación:
 
 Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes. 
 
 Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva, lo que deriva en una problemática que afecta a la población. Por consiguiente, este proyecto busca facilitar la vida a la sociedad, dándole acceso a información de manera simplificada y en lenguaje cotidiano. 
 
-## *** Objetivos: ***
+##  Objetivos: 
 
-## ** General: ** Contribuir a la comunidad y a su seguridad. 
+### General: 
+Contribuir a la comunidad y a su seguridad. 
 
-## ** Específicos del trabajo: **  
+### Específicos del trabajo:   
 
 Crear una base de datos que contemple información de sismos en Estados Unidos, Japón y Chile de forma estandarizada. 
 
 Incrementar el interés y comprensión de la comunidad en torno a la temática sismográfica.  
 
-Desarrollar bot autómatizado de Twitter qué una vez sucedido un sismo, informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro. 
+Desarrollar bot autómatizado de Twitter qué una vez sucedido un sismo, informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro.
 
- 
 
-### *** Específicos del grupo: ***
+### Específicos del grupo:
 
 Fortalecer habilidades blandas y de comunicación. 
 
 Afianzar y perfeccionar conocimientos aprendidos en la carrera de Data Science. 
 
- 
 
-## *** Alcance: ***
+
+
+## Alcance: 
 
 El alcance del trabajo será ofrecer un servicio para la sociedad, enfocándose en un análisis valioso para la misma. Para esto se pondrá en el papel del ciudadano común y se intentará “bajar a tierra” conocimientos científicos para que el público pueda comprender y beneficiarse de la información recolectada. 
 
@@ -59,9 +60,11 @@ Se plantea la posibilidad de realizar el trabajo en un ambiente cloud, para ello
 
 Estará fuera del alcance del proyecto, por razones de complejidad y tiempo, la elaboración de conclusiones específicas cuantitativas respecto a la información secundaria obtenida, como clima, tsunamis y erupciones volcánicas. 
 
-Se plantea la posibilidad de continuación del proyecto una vez concluido el plazo del mismo. 
+Se plantea la posibilidad de continuación del proyecto una vez concluido el plazo del mismo.
 
-### *** KPIs asociados al proyecto: ***
+
+
+###  KPIs asociados al proyecto:
 
 Para poder medirlos se tomarán las siguientes métricas que sacaremos de nuestra la cuenta de Twitter. 
 
@@ -105,7 +108,7 @@ Repositorio del proyecto:
 
 Nuestro repositorio es https://github.com/Martu-t/grupo09_proyectogrupal y en él se irán cargando los distintos códigos fuente (con su respectiva documentación) utilizados para alcanzar con éxito los objetivos. 
 
-Stack tecnológico: 
+### Stack tecnológico: 
 
 Python = Extracción, EDA, Transformación, carga a base de datos (inicial e incremental) y bot de Twitter. Se utilizarán librerías para agilizar los procesos de conexión a base de datos, preparación de modelos de ML y gráficos de geolocalización. 
 
@@ -129,17 +132,21 @@ En particular se realizará la metodología Scrum, que se basa en “sprints” 
 
 Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de conectar a todos los participantes del proyecto, dividiendo, organizando trabajo y tiempos por cada integrante y así garantizar que las tareas se finalicen a tiempo.  
 
-Diseño: 
+### Diseño: 
 
 Los entregables de cada sprints serán: 
 
-#### *** Semana 1: *** Propuesta de trabajo, efectivamente fundamentada y documentada. 
+#### Semana 1: 
+Propuesta de trabajo, efectivamente fundamentada y documentada. 
 
-#### *** Semana 2: ***  Creación de Data Warehouse y carga en el mismo, utilizando el Stack tecnológico más adecuado y documentando el proceso.  
+#### Semana 2: 
+Creación de Data Warehouse y carga en el mismo, utilizando el Stack tecnológico más adecuado y documentando el proceso.  
 
-#### *** Semana 3: *** Dashboard y modelo de Machine Learning. 
+#### Semana 3:
+Dashboard y modelo de Machine Learning. 
 
-#### *** Semana 4: *** Demostración final y storytelling ante el Product Owner. 
+#### Semana 4:
+Demostración final y storytelling ante el Product Owner. 
 
 ## Equipo de trabajo: 
 
@@ -183,7 +190,8 @@ Para continuar, se cree importante dar el significado de algunos conceptos bási
 </p>
 
 
-*** Sismo: *** Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta) causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles, pero en algunos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
+#### Sismo: 
+Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta) causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles, pero en algunos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
 
 La diferencia entre sismo y terremoto está dada por la intensidad del movimiento sísmico, el más peligroso, con efectos destructivos que puedan llegar a ser fatales, es el terremoto. 
 
@@ -193,13 +201,15 @@ Aunque las placas son rígidas, también se mueven, lo hacen de “rebote”, po
 
 El calor en expansión hace que las placas frías de la superficie choquen, friccionen y provoquen terremotos, grietas, incluso tsunamis. Este dinamismo, a la larga, cambia la fisonomía de la Tierra.  
 
-*** El hipocentro: ***fuente o foco, es el lugar en el interior de la corteza terrestre donde tiene origen un sismo (a cierta profundidad con respecto a la superficie). En cambio, el epicentro, es el punto en la superficie terrestre sobre el que se proyecta el hipocentro (donde el terremoto es más intenso). 
+#### El hipocentro:
+ fuente o foco, es el lugar en el interior de la corteza terrestre donde tiene origen un sismo (a cierta profundidad con respecto a la superficie). En cambio, el epicentro, es el punto en la superficie terrestre sobre el que se proyecta el hipocentro (donde el terremoto es más intenso). 
 
 La profundidad de un sismo, es el punto en la profundidad (de hipocentro) de la Tierra desde donde se libera la energía de un terremoto. En base a ésta se clasifican en superficial, intermedio o profundo.  
 
 Los sismos ocurridos a una mayor profundidad causan menos daño porque la mayoría de su energía se disipa antes de llegar a la superficie, de lo contrario los superficiales son los más destructivos, ya que tienen un impacto más directo sobre la superficie de la tierra. 
 
-Por último, *** la magnitud ***, es una medida única del tamaño de un terremoto. Ésta indica cuanta energía fue liberada durante el terremoto y es independiente de la localización y profundidad. Se mide utilizando sismógrafos, que monitorean las ondas sísmicas que viajan a través de la Tierra después de un terremoto. Ya no se usa la Escala Richter, se usa un medidor de ondas sísmicas, que si bien es similar, ya no se dice por ejemplo: “El terremoto fue de 5,6 escala Richter, sino solo 5,6”. 
+ #### Magnitud
+ es una medida única del tamaño de un terremoto. Ésta indica cuanta energía fue liberada durante el terremoto y es independiente de la localización y profundidad. Se mide utilizando sismógrafos, que monitorean las ondas sísmicas que viajan a través de la Tierra después de un terremoto. Ya no se usa la Escala Richter, se usa un medidor de ondas sísmicas, que si bien es similar, ya no se dice por ejemplo: “El terremoto fue de 5,6 escala Richter, sino solo 5,6”. 
 
 Cabe destacar algunos datos importantes, que en un primer momento se analizarán para el proyecto y luego se sacará conclusiones al respecto. 
 
