@@ -11,83 +11,197 @@
 </p>
 
 
-## **Contexto**
+## *** Entendimiento de la situación: ***
 
-Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes.
+Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes. 
 
-Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva 
+Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva, lo que deriva en una problemática que afecta a la población. Por consiguiente, este proyecto busca facilitar la vida a la sociedad, dándole acceso a información de manera simplificada y en lenguaje cotidiano. 
+
+## *** Objetivos: ***
+
+## ** General: ** Contribuir a la comunidad y a su seguridad. 
+
+## ** Específicos del trabajo: **  
+
+Crear una base de datos que contemple información de sismos en Estados Unidos, Japón y Chile de forma estandarizada. 
+
+Incrementar el interés y comprensión de la comunidad en torno a la temática sismográfica.  
+
+Desarrollar bot autómatizado de Twitter qué una vez sucedido un sismo, informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro. 
+
+ 
+
+### *** Específicos del grupo: ***
+
+Fortalecer habilidades blandas y de comunicación. 
+
+Afianzar y perfeccionar conocimientos aprendidos en la carrera de Data Science. 
+
+ 
+
+## *** Alcance: ***
+
+El alcance del trabajo será ofrecer un servicio para la sociedad, enfocándose en un análisis valioso para la misma. Para esto se pondrá en el papel del ciudadano común y se intentará “bajar a tierra” conocimientos científicos para que el público pueda comprender y beneficiarse de la información recolectada. 
+
+Se intentará brindar alertas con mayor detalle para el accionar de las personas, sabiendo a que se enfrentan en caso de suceder un sismo. 
+
+Para ello se utilizarán datos de tres (3) países ubicados en distintas zonas geográficas para realizar un análisis heterogéneo de sismos, relacionándoselos con el clima, los tsunamis y los volcanes activos en sus respectivas zonas. 
+
+Se creará una base de datos que albergue información de éstos tres países de manera normalizada.  
+
+Luego, se realizará en ella, cargas incrementales de los datos a medida que vayan sucediendo, actualizándose cada una hora aproximadamente. 
+
+Además, se implementará un modelo de Machine Learning (ML), específicamente de aprendizaje no supervisado. Podremos así, tener una clasificación de distintos tipos de eventos de manera sencilla.  
+
+En la cuenta de twitter https://twitter.com/alertas_sismos, y en base a la clasificación mencionada, nuestro bot indicará a la sociedad, a través de publicaciones automáticas, si se deberá tomar medidas previsionales añadiendo mínimos detalles técnicos del fenómeno ocurrido.  
+
+Se plantea la posibilidad de realizar el trabajo en un ambiente cloud, para ello se están analizando los distintos entornos para elegir el que más se adecúa al mismo. 
+
+Estará fuera del alcance del proyecto, por razones de complejidad y tiempo, la elaboración de conclusiones específicas cuantitativas respecto a la información secundaria obtenida, como clima, tsunamis y erupciones volcánicas. 
+
+Se plantea la posibilidad de continuación del proyecto una vez concluido el plazo del mismo. 
+
+### *** KPIs asociados al proyecto: ***
+
+Para poder medirlos se tomarán las siguientes métricas que sacaremos de nuestra la cuenta de Twitter. 
+
+Con respecto a Twitter:  
+
+Tasa de crecimiento de la audiencia. = 
+𝑁𝑢𝑒𝑣𝑜𝑠 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
+Nuevos seguidores Total seguidores x 100
+ 
+  
+
+Alcance de la publicación. = 
+𝑃𝑒𝑟𝑠𝑜𝑛𝑎𝑠 𝑞𝑢𝑒 𝑣𝑖𝑒𝑟𝑜𝑛 𝑒𝑙 𝑡𝑤𝑖𝑡𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
+Personas que vieron el twitTotal seguidores x 100
+ 
+ 
+
+Tasa de interacción (o aplauso). = 
+𝑇𝑜𝑡𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑐𝑖𝑜𝑛𝑒𝑠𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
+Total interaccionesTotal seguidoresx 100
+ 
+ 
+
+Tasa de visitas de perfil. =
+ 𝑁ú𝑚𝑒𝑟𝑜 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑐𝑖𝑜𝑛𝑒𝑠 𝑑𝑒 𝑝𝑒𝑟𝑓𝑖𝑙𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
+ Número visualizaciones de perfilTotal Seguidoresx 100
+ 
+ 
+
+Tasa de ampliación (detalles). =
+ 𝐶𝑎𝑛𝑡𝑖𝑑𝑎𝑑 𝑑𝑒 𝑣𝑖𝑠𝑡𝑎𝑠 𝑑𝑒 𝑑𝑒𝑡𝑎𝑙𝑙𝑒𝑠𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
+ Cantidad de vistas de detallesTotal Seguidoresx 100
+ 
+ 
+
+Lealtad del cliente. Encuesta y “agrupar respuestas” ¿Qué probabilidades hay que recomiendes nuestro servicio? 
+
+Estos KPIs serán contemplados en un determinado período de tiempo y se desglosarán a la hora de ejecutarlos. 
+
+Repositorio del proyecto: 
+
+Nuestro repositorio es https://github.com/Martu-t/grupo09_proyectogrupal y en él se irán cargando los distintos códigos fuente (con su respectiva documentación) utilizados para alcanzar con éxito los objetivos. 
+
+Stack tecnológico: 
+
+Python = Extracción, EDA, Transformación, carga a base de datos (inicial e incremental) y bot de Twitter. Se utilizarán librerías para agilizar los procesos de conexión a base de datos, preparación de modelos de ML y gráficos de geolocalización. 
+
+- Github = Repositorio de GITHUB y control de versiones. 
+
+- Docker = Entorno de desarrollo. 
+
+- PostgreSQL= Creación y manejo de Base de datos. 
+
+- Power BI = Presentación de dashboard 
+
+- Streamlit = Deploy del módelo de machine learning y mapa interactivo 
+
+- Ambiente cloud = Desarrollo de trabajo 
+
+- Metodología de trabajo: 
+
+La metodología de gestión de proyecto utilizada se cree muy importante para llegar a los objetivos propuestos. Se utilizará metodología considerada ágil al ser colaborativa, rápida y efectiva, iterativa, respaldada por datos y fundamentalmente que se valore a las personas por encima de los procesos ya que se deduce que es la mejor y más eficiente manera de trabajo. 
+
+En particular se realizará la metodología Scrum, que se basa en “sprints” para crear un ciclo de proyecto, en este caso, sprints de una semana. Cada sprint culminará con la demostración del progreso del trabajo realizado hasta el momento, frente al Product Owner. La duración total del proyecto será de 4 semanas. Siendo la última exclusivamente para presentación final y demostrar puesta en producción. 
+
+Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de conectar a todos los participantes del proyecto, dividiendo, organizando trabajo y tiempos por cada integrante y así garantizar que las tareas se finalicen a tiempo.  
+
+Diseño: 
+
+Los entregables de cada sprints serán: 
+
+#### *** Semana 1: *** Propuesta de trabajo, efectivamente fundamentada y documentada. 
+
+#### *** Semana 2: ***  Creación de Data Warehouse y carga en el mismo, utilizando el Stack tecnológico más adecuado y documentando el proceso.  
+
+#### *** Semana 3: *** Dashboard y modelo de Machine Learning. 
+
+#### *** Semana 4: *** Demostración final y storytelling ante el Product Owner. 
+
+## Equipo de trabajo: 
+
+El equipo de trabajo está conformado por: 
+
+Martha Alejandra Tarantino 
+
+Federico Gonzalez Pietranera 
+
+Deiner Fabian Silva Rueda 
+
+Axel Moriena 
+
+Los roles y responsabilidades de cada integrante estarán suscitados al perfil de cada uno y en dependencia de las tareas a realizar en cada sprint. 
+
+Se promueve en primer lugar la funcionalidad y comodidad del grupo y para ello se dividen las tareas con el propósito del bien común y la obtención de los objetivos planteados. Para ello es fundamental en cada día la comunicación y el diálogo constante en el grupo humano, sin perder de vista la consecución de los objetivos. 
+
+Los roles en cada tarea realizada se delimitarán, dando siempre lugar al pedido y ofrecimiento de colaboración de todos y para todos. Sin quitar responsabilidad a cada integrante y al grupo en general por sus tareas. 
+
+Se obtendrá más información en detalle en el siguiente diagrama de Gantt. 
+
+*Colocar Diagrama de Gantt que hizo Fabian. 
+
+Análisis preliminar de calidad de datos. (features y significado de cada uno y todo el análisis posterior que se realizó). 
+
+https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/eda.ipynb 
+
+## **Datasets y fuentes complementarias**
+
+- Fuente de datos principal: https://earthquake.usgs.gov/fdsnws/event/1/
+- Fuentes de datos complementarios: Se agregan 3 dataset adicionales que se pueden encontrar en la carpeta: additional datasets
 
 
-## **Propuesta de trabajo**
+## Diccionario de datos general: 
 
-Para este proyecto, nuestro equipo de atención de desastres del [país latinoamericano a definir]. En este momento se encuentran trabajando en un proyecto tri-nacional en conjunto con el Estados unidos (USGS) y Japón (JMA) llamado “Working towards global standardization of seismological networks and effective communication to the civilian community.” 
+Para continuar, se cree importante dar el significado de algunos conceptos básicos a utilizar. 
 
-Los objetivos de esta alianza son:
-
-<h4>1. Crear una  base de datos depurada que contemple los datos de las tres naciones de forma estandarizada:</h4>
-
-A las autoridades les interesa tener la información estándar de todos los países para poder crear un mecanismo de clasificación. La definición de un evento sísmico y los criterios de alerta adecuados deben tener en cuenta la calidad de los datos.
-
-<sub>Observación: Los "outliers" presentes, no son errores 👀. </sub>
-
-
-<h4>2. Implementar mecanismos de comunicación y alerta a la comunidad civil en un lenguaje intuitivamente interpretable a través de Internet o cellBroadCast:</h4>
-
-Al público le interesa saber si se produjeron daños en los edificios o si la salud y la seguridad están en peligro. Nos proponemos en brindar ese servicio que al día de hoy no se encuentra desarrollado.
-***********
-
-Por lo tanto nos enfocaremos en análisis valiosos para la comunidad! Este grupo de trabajo se pone en el papel del ciudadano común e intentará brindar alertas con mayor detalle, para que las personas sepan a que se enfrentan. 
-
-Se investigarán
-¿Qué significa Magnitud? ¿Profundidad? ¿La diferencia entre hipocentro o epicentro? Por que podria importar? 
-
-Vamos a traducir esto al lenguaje cotidiano para facilitar la vida de la gente. 
-<p align="center">
-<img src= "https://t2.ev.ltmcdn.com/es/posts/4/4/6/terremoto_que_es_como_se_produce_y_tipos_3644_600.webp"  height="200">
-</p>
-
-### Enfoque 1 [Data Analysis focus]
-
-Analizando profundamente la relacion de los sismos con otra u otras particularidades de su pais latinoamericano escogido.
-
-Ejemplos de lineas de investigacion (Solo para que se inspiren. Pueden divagar y escoger lo que se les ocurra, su mente es el limite!):
-
-- Sismicidad secundaria (después de un gran sismo) ¿cómo afecta? ¿Qué ha pasado? Se pueden anticipar medidas si es que hay algo sistemáticamente mal?
-- Es aconsejable que haya una reubicación de habitantes en zonas como CDMX que es sabido esta construida en una zona geológicamente inestable y con alta actividad sísmica?
-- Derribando (o acentuando) mitos: Tiene que ver el clima con la propensión a sismos de mayor “magnitud” y los cambios estacionales?
-- Efectos secundarios no deseables: Sismos y Tsunamis, Problemas en redes eléctricas, incendios…
-
-
-Entregables tangibles minimos:
-Mapa de geolocalizacion de los sismos escogidos que contemple la actualizacion cada hora. 
-La informacion que debe tener DEBE ser la escogida en su analisis. NO debe ir informacion cientifica como: Magnitud, Profundidad si esta no esta explicada o se indica por que es relevante.
-
-
-### Enfoque 2 [Machine Learning Focus]
-
-Aplicar un modelo de clasificacion no supervisada. 
-Se generarán clasificcadores según patrones. Por el momento se plantea 'Peligrosidad Media/Alta/Baja'
-
-Para ellos se cuenta con
-Presentacion de las etiquetas de clasificacion y performancia del modelo.  
-Deploy del modelo de ML - puesta en produccion (plataforma a elección)
-
-- - -
 <p align="center">
 <img src= https://github.com/soyHenry/PF_DS/blob/main/Proyectos/Image/sismos.png?raw=true
  height="500">
 </p>
 
-## **Datasets y fuentes complementarias**
 
-Fuentes de datos obligatorias:
-+ Estados Unidos https://earthquake.usgs.gov/fdsnws/event/1/
-+ Japon https://www.fdsn.org/networks/detail/JP/
+*** Sismo: *** Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta) causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles, pero en algunos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
 
-+ Observatorio Latinoamericano: 
+La diferencia entre sismo y terremoto está dada por la intensidad del movimiento sísmico, el más peligroso, con efectos destructivos que puedan llegar a ser fatales, es el terremoto. 
 
-Fuentes de datos alternativas
-+ Ejemplo de inspiracion de ciencia para la sociedad: https://twitter.com/cfariasvega/status/1586112199524614144?t=ZI428WweSDDuG_m_uWhlDg&s=19
+Las placas tectónicas son planchas de piedra, sólida, rígida que se encuentran en la litosfera (Capa externa y rígida de la Tierra, de profundidad entre los 10 y 50 km, es decir la más superficial). Se apoyan sobre otra plancha de roca fundida, el manto, que se comporta como si fuera un plástico deforme, maleable que se estira sin romperse. 
+
+Aunque las placas son rígidas, también se mueven, lo hacen de “rebote”, por el enorme calor que desprende el interior de nuestro planeta (núcleo), que arde a 6.700°C, casi como el sol. Este calor ardiente mueve el manto y en consecuencia se expande a la litosfera y la corteza terrestre. 
+
+El calor en expansión hace que las placas frías de la superficie choquen, friccionen y provoquen terremotos, grietas, incluso tsunamis. Este dinamismo, a la larga, cambia la fisonomía de la Tierra.  
+
+*** El hipocentro: ***fuente o foco, es el lugar en el interior de la corteza terrestre donde tiene origen un sismo (a cierta profundidad con respecto a la superficie). En cambio, el epicentro, es el punto en la superficie terrestre sobre el que se proyecta el hipocentro (donde el terremoto es más intenso). 
+
+La profundidad de un sismo, es el punto en la profundidad (de hipocentro) de la Tierra desde donde se libera la energía de un terremoto. En base a ésta se clasifican en superficial, intermedio o profundo.  
+
+Los sismos ocurridos a una mayor profundidad causan menos daño porque la mayoría de su energía se disipa antes de llegar a la superficie, de lo contrario los superficiales son los más destructivos, ya que tienen un impacto más directo sobre la superficie de la tierra. 
+
+Por último, *** la magnitud ***, es una medida única del tamaño de un terremoto. Ésta indica cuanta energía fue liberada durante el terremoto y es independiente de la localización y profundidad. Se mide utilizando sismógrafos, que monitorean las ondas sísmicas que viajan a través de la Tierra después de un terremoto. Ya no se usa la Escala Richter, se usa un medidor de ondas sísmicas, que si bien es similar, ya no se dice por ejemplo: “El terremoto fue de 5,6 escala Richter, sino solo 5,6”. 
+
+Cabe destacar algunos datos importantes, que en un primer momento se analizarán para el proyecto y luego se sacará conclusiones al respecto. 
 
 
 ## Disclaimer  
