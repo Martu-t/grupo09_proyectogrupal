@@ -68,33 +68,33 @@ Se plantea la posibilidad de continuación del proyecto una vez concluido el pla
 
 Para poder medirlos se tomarán las siguientes métricas que sacaremos de nuestra cuenta de Twitter. 
 
-Tasa de crecimiento de la audiencia. = 
-𝑁𝑢𝑒𝑣𝑜𝑠 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
-Nuevos seguidores Total seguidores x 100
+**Tasa de crecimiento de la audiencia.** = 
+𝑁𝑢𝑒𝑣𝑜𝑠 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 / 𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
+
  
   
 
-Alcance de la publicación. = 
-𝑃𝑒𝑟𝑠𝑜𝑛𝑎𝑠 𝑞𝑢𝑒 𝑣𝑖𝑒𝑟𝑜𝑛 𝑒𝑙 𝑡𝑤𝑖𝑡𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
-Personas que vieron el twitTotal seguidores x 100
+**Alcance de la publicación.** = 
+𝑃𝑒𝑟𝑠𝑜𝑛𝑎𝑠 𝑞𝑢𝑒 𝑣𝑖𝑒𝑟𝑜𝑛 𝑒𝑙 𝑡𝑤𝑖𝑡 / 𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
+
  
  
 
-Tasa de interacción (o aplauso). = 
-𝑇𝑜𝑡𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑐𝑖𝑜𝑛𝑒𝑠𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
-Total interaccionesTotal seguidoresx 100
+**Tasa de interacción (o aplauso).** = 
+𝑇𝑜𝑡𝑎𝑙 𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑐𝑖𝑜𝑛𝑒𝑠 / 𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
+
  
  
 
-Tasa de visitas de perfil. =
- 𝑁ú𝑚𝑒𝑟𝑜 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑐𝑖𝑜𝑛𝑒𝑠 𝑑𝑒 𝑝𝑒𝑟𝑓𝑖𝑙𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
- Número visualizaciones de perfilTotal Seguidoresx 100
+**Tasa de visitas de perfil.** =
+ 𝑁ú𝑚𝑒𝑟𝑜 𝑣𝑖𝑠𝑢𝑎𝑙𝑖𝑧𝑎𝑐𝑖𝑜𝑛𝑒𝑠 𝑑𝑒 𝑝𝑒𝑟𝑓𝑖𝑙 / 𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
+
  
  
 
-Tasa de ampliación (detalles). =
- 𝐶𝑎𝑛𝑡𝑖𝑑𝑎𝑑 𝑑𝑒 𝑣𝑖𝑠𝑡𝑎𝑠 𝑑𝑒 𝑑𝑒𝑡𝑎𝑙𝑙𝑒𝑠𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
- Cantidad de vistas de detallesTotal Seguidoresx 100
+**Tasa de ampliación (detalles).** =
+ 𝐶𝑎𝑛𝑡𝑖𝑑𝑎𝑑 𝑑𝑒 𝑣𝑖𝑠𝑡𝑎𝑠 𝑑𝑒 𝑑𝑒𝑡𝑎𝑙𝑙𝑒𝑠 / 𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
+
  
 A partir de dichas métricas, definimos los siguientes KPIs:
 
@@ -107,13 +107,13 @@ A partir de dichas métricas, definimos los siguientes KPIs:
 - Obtener un número de visualizaciones de perfil de al menos 50k en promedio en el primer año, por evento.
 
 
-Además se contempla la posibilidad de hacer encuesta en el futuro: 
+Además se contempla la posibilidad de hacer encuestas en el futuro: 
 
 * Escala de satisfacción del cliente. Con un nivel de 1 a 10, ¿Qué nivel de satisfacción encuentras con nuestro servicio?
 
 * Lealtad del cliente. Encuesta y “agrupar respuestas” ¿Qué probabilidades hay que recomiendes nuestro servicio? 
 
-Esto se definirá una vez avanzado el proyecto
+Esto se definirá una vez avanzado el proyecto.
 
 Estos KPIs serán contemplados en un determinado período de tiempo y se desglosarán a la hora de ejecutarlos. 
 
