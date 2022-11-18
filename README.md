@@ -216,18 +216,29 @@ Aunque las placas son rígidas, también se mueven, lo hacen de “rebote”, po
 
 El calor en expansión hace que las placas frías de la superficie choquen, friccionen y provoquen terremotos, grietas, incluso tsunamis. Este dinamismo, a la larga, cambia la fisonomía de la Tierra.  
 
-#### El hipocentro:
- fuente o foco, es el lugar en el interior de la corteza terrestre donde tiene origen un sismo (a cierta profundidad con respecto a la superficie). En cambio, el epicentro, es el punto en la superficie terrestre sobre el que se proyecta el hipocentro (donde el terremoto es más intenso). 
+#### El hipocentro y el epicentro:
+ El hipocentro fuente o foco, es el lugar en el interior de la corteza terrestre donde tiene origen un sismo (a cierta profundidad con respecto a la superficie). En cambio, **el epicentro**, es el punto en la superficie terrestre sobre el que se proyecta el hipocentro (donde el terremoto es más intenso). 
 
-La profundidad de un sismo, es el punto en la profundidad (de hipocentro) de la Tierra desde donde se libera la energía de un terremoto. En base a ésta se clasifican en superficial, intermedio o profundo.  
+**La profundidad** de un sismo, es el punto en la profundidad (de hipocentro) de la Tierra desde donde se libera la energía de un terremoto. En base a ésta se clasifican en superficial, intermedio o profundo.  
 
 Los sismos ocurridos a una mayor profundidad causan menos daño porque la mayoría de su energía se disipa antes de llegar a la superficie, de lo contrario los superficiales son los más destructivos, ya que tienen un impacto más directo sobre la superficie de la tierra. 
 
  #### Magnitud
- es una medida única del tamaño de un terremoto. Ésta indica cuanta energía fue liberada durante el terremoto y es independiente de la localización y profundidad. Se mide utilizando sismógrafos, que monitorean las ondas sísmicas que viajan a través de la Tierra después de un terremoto. Ya no se usa la Escala Richter, se usa un medidor de ondas sísmicas, que si bien es similar, ya no se dice por ejemplo: “El terremoto fue de 5,6 escala Richter, sino solo 5,6”. 
+Magnitud es una medida única del tamaño de un terremoto. Ésta indica cuanta energía fue liberada durante el terremoto y es independiente de la localización y profundidad. Se mide utilizando sismógrafos, que monitorean las ondas sísmicas que viajan a través de la Tierra después de un terremoto. Ya no se usa la Escala Richter, se usa un medidor de ondas sísmicas, que si bien es similar, ya no se dice por ejemplo: “El terremoto fue de 5,6 escala Richter, sino solo 5,6”. 
 
-Cabe destacar algunos datos importantes, que en un primer momento se analizarán para el proyecto y luego se sacará conclusiones al respecto. 
+Cabe destacar algunos datos importantes, que en un primer momento se analizarán para el proyecto y luego se sacará conclusiones al respecto.
 
+El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del océano Pacífico y concentra varias de las zonas con mayor actividad sísmica del planeta. Abarca una región de alrededor de 40.000 kilómetros y contiene territorios de 31 países. El 90% de los terremotos y el 75% de los volcanes de todo el mundo se encuentran allí. Aquí se generó el terremoto más fuerte desde que se realizan registros, el terremoto de Valdivia, Chile, el 22 de mayo de 1960 con magnitud de 9,5, con posterior Tsunami en Japón, Filipinas y Hawai..
+
+![image](https://user-images.githubusercontent.com/103937102/202608869-04d5764c-c594-411c-bb31-44aff7b52b1f.png)
+
+
+Ésta particularidad se debe al tipo de límite que se puede observar entre las placas tectónicas. Existen 3 clases; divergentes, convergentes y de fricción.
+En las clases divergentes las placas se separan en sentido opuesto (por ejemplo Gran Valle de Rift, que puede ocasionar que África se divida en el futuro). En el caso de las convergentes, las placas tienden a enfrentarse hacia la misma dirección, generando las llamadas zonas de subducción. Éste tipo se encuentra en buena parte del Anillo de Fuego. En éstas, una de las placas se hunde lentamente por debajo de la otra, generando tanto terremotos como erupciones de volcanes.
+
+Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma lateral en sentido opuesto (ocurre en la famosa Falla de San Andrés, en el oeste de América del Norte). Éste en particular se trata de uno de los lugares que genera mayor preocupación por los sismólogos por las consecuencias que puede presentar en un futuro cercano. Aquí sucedió uno de las mayores catástrofes de la historia de Estados Unidos, el terremoto de San Francisco en 1906, 
+
+ 
 
 ## Disclaimer  
 De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
