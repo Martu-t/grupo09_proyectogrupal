@@ -66,7 +66,7 @@ Se plantea la posibilidad de continuación del proyecto una vez concluido el pla
 
 ###  KPIs asociados al proyecto:
 
-Para poder medirlos se tomarán las siguientes métricas que sacaremos de nuestra la cuenta de Twitter. 
+Para poder medirlos se tomarán las siguientes métricas que sacaremos de nuestra cuenta de Twitter. 
 
 Tasa de crecimiento de la audiencia. = 
 𝑁𝑢𝑒𝑣𝑜𝑠 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑇𝑜𝑡𝑎𝑙 𝑠𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠 𝑥 100
@@ -96,18 +96,23 @@ Tasa de ampliación (detalles). =
  𝐶𝑎𝑛𝑡𝑖𝑑𝑎𝑑 𝑑𝑒 𝑣𝑖𝑠𝑡𝑎𝑠 𝑑𝑒 𝑑𝑒𝑡𝑎𝑙𝑙𝑒𝑠𝑇𝑜𝑡𝑎𝑙 𝑆𝑒𝑔𝑢𝑖𝑑𝑜𝑟𝑒𝑠𝑥 100
  Cantidad de vistas de detallesTotal Seguidoresx 100
  
-A partir de dichas métricas, definimos los siguientes KPIs
+A partir de dichas métricas, definimos los siguientes KPIs:
 
-- Superar los 1.000 seguidores en seis meses
+- Superar los 10.000 seguidores en el primer año.
 
-- Incrementar el alcance de las publicaciones en un 20 % en el primer mes.
+- Incrementar el alcance de las publicaciones diez veces el primer año, a partir del primer mes.
 
-- Aumentar las interacciones un 10 % por mes durante los primeros 6 meses.
+- Aumentar las interacciones un 5 % por mes durante el primer año.
 
-- Obtener un número de visualizaciones de perfil de al menos 4 dígitos en los primeros tres meses
+- Obtener un número de visualizaciones de perfil de al menos 50k en promedio en el primer año, por evento.
 
 
-Además se contempla la posibilidad de hacer encuesta en el futuro: Lealtad del cliente. Encuesta y “agrupar respuestas” ¿Qué probabilidades hay que recomiendes nuestro servicio? 
+Además se contempla la posibilidad de hacer encuesta en el futuro: 
+
+* Escala de satisfacción del cliente. Con un nivel de 1 a 10, ¿Qué nivel de satisfacción encuentras con nuestro servicio?
+
+* Lealtad del cliente. Encuesta y “agrupar respuestas” ¿Qué probabilidades hay que recomiendes nuestro servicio? 
+
 Esto se definirá una vez avanzado el proyecto
 
 Estos KPIs serán contemplados en un determinado período de tiempo y se desglosarán a la hora de ejecutarlos. 
