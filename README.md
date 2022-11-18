@@ -104,7 +104,8 @@ A partir de dichas métricas, definimos los siguientes KPIs
 
 - Aumentar las interacciones un 10 % por mes durante los primeros 6 meses.
 
-- Obtener un número de visualizaciones de perfil de al menos 4 dígitos en los primeros tres meses 
+- Obtener un número de visualizaciones de perfil de al menos 4 dígitos en los primeros tres meses
+
 
 Además se contempla la posibilidad de hacer encuesta en el futuro: Lealtad del cliente. Encuesta y “agrupar respuestas” ¿Qué probabilidades hay que recomiendes nuestro servicio? 
 Esto se definirá una vez avanzado el proyecto
@@ -173,9 +174,16 @@ Se promueve en primer lugar la funcionalidad y comodidad del grupo y para ello s
 
 Los roles en cada tarea realizada se delimitarán, dando siempre lugar al pedido y ofrecimiento de colaboración de todos y para todos. Sin quitar responsabilidad a cada integrante y al grupo en general por sus tareas. 
 
-Se obtendrá más información en detalle en el siguiente diagrama de Gantt. 
+Decidimos utilizar la aplicación "Asana" para la distribución de tareas y simple visualización de la carga de trabajo.
 
-*Colocar Diagrama de Gantt que hizo Fabian. 
+Se obtendrá más información en detalle en el siguiente diagrama de Gantt.
+
+<p align="center">
+<img src= https://iili.io/H9gfLv9.png
+ height="500">
+</p>
+
+## EDA
 
 Análisis preliminar de calidad de datos. (features y significado de cada uno y todo el análisis posterior que se realizó). 
 
