@@ -1,0 +1,92 @@
+Fecha,Tsu,Eq,Name,Location,Country,Latitude,Longitude,Elevation (m),Type,VEI,Total Deaths,Total Injuries
+2010-01-01,0.0,0.0,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3.0,0.0,0.0
+2010-03-31,0.0,0.0,Eyjafjallajokull,Iceland-S,Iceland,63.633,-19.633,1651,Stratovolcano,2.0,2.0,0.0
+2010-05-27,0.0,0.0,Pacaya,Guatemala,Guatemala,14.382,-90.601,2569,Complex volcano,1.0,1.0,0.0
+2010-05-29,4822.0,9172.0,Zealandia Bank,Mariana Is-C Pacific,United States,16.88,145.85,0,Stratovolcano,0.0,0.0,0.0
+2010-08-06,0.0,0.0,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,3.0,4.0,5.0
+2010-08-30,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,2.0,0.0
+2010-10-26,0.0,0.0,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,0.0,367.0,277.0
+2010-11-01,0.0,0.0,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3.0,0.0,0.0
+2010-12-28,0.0,0.0,Tengger Caldera,Java,Indonesia,-7.942,112.95,2329,Stratovolcano,0.0,0.0,0.0
+2011-01-03,0.0,0.0,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,0.0,1.0,1.0
+2011-01-28,0.0,0.0,Kirishimayama,Kyushu-Japan,Japan,31.934,130.862,1700,Shield volcano,0.0,0.0,0.0
+2011-02-23,0.0,0.0,Bulusan,Luzon-Philippines,Philippines,12.769,124.056,1535,Stratovolcano,2.0,1.0,0.0
+2011-03-18,0.0,0.0,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,0.0,0.0,0.0
+2011-04-01,0.0,0.0,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,4.0,0.0,0.0
+2011-06-04,0.0,0.0,Puyehue-Cordon Caulle,Chile-C,Chile,-40.59,-72.117,2236,Stratovolcano,4.0,0.0,0.0
+2011-06-22,0.0,0.0,Nabro,Africa-NE,Eritrea,13.37,41.7,2218,Stratovolcano,4.0,31.0,0.0
+2011-07-09,0.0,0.0,Katla,Iceland-S,Iceland,63.633,-19.083,1490,Subglacial volcano,0.0,0.0,0.0
+2011-07-17,0.0,0.0,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,0.0,1.0,0.0
+2011-12-27,0.0,0.0,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.33,1715,Stratovolcano,3.0,4.0,0.0
+2012-02-10,0.0,0.0,Kilauea,Hawaiian Is,United States,19.421,-155.287,1222,Shield volcano,0.0,0.0,0.0
+2012-03-02,0.0,0.0,Kilauea,Hawaiian Is,United States,19.421,-155.287,1222,Shield volcano,0.0,0.0,0.0
+2012-12-12,0.0,0.0,Tolbachik,Kamchatka,Russia,55.832,160.326,3611,Shield volcano,0.0,0.0,0.0
+2013-02-12,0.0,0.0,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,0.0,1.0,1.0
+2013-02-01,0.0,0.0,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,0.0,0.0,0.0
+2013-05-07,0.0,0.0,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,0.0,5.0,8.0
+2013-08-10,0.0,0.0,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,3.0,5.0,0.0
+2013-09-01,0.0,0.0,Ubinas,Peru,Peru,-16.355,-70.903,5672,Stratovolcano,0.0,0.0,0.0
+2013-09-04,0.0,0.0,Aira,Kyushu-Japan,Japan,31.593,130.657,1117,Stratovolcano,0.0,0.0,0.0
+2013-09-15,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,2.0,0.0,0.0
+2013-12-13,0.0,0.0,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,0.0,1.0,0.0
+2014-02-01,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,17.0,3.0
+2014-02-13,0.0,0.0,Kelud,Java,Indonesia,-7.93,112.308,1731,Stratovolcano,0.0,7.0,0.0
+2014-09-27,0.0,0.0,Ontakesan,Honshu-Japan,Japan,35.893,137.48,3067,Complex volcano,3.0,55.0,70.0
+2014-11-10,0.0,0.0,Kilauea,Hawaiian Is,United States,19.421,-155.287,1222,Shield volcano,0.0,0.0,0.0
+2014-11-23,0.0,0.0,Fogo,Cape Verde Is,Cape Verde,14.95,-24.35,2829,Stratovolcano,0.0,0.0,0.0
+2014-12-18,0.0,0.0,Gamalama,Halmahera-Indonesia,Indonesia,0.8,127.33,1715,Stratovolcano,0.0,1.0,4.0
+2015-02-20,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,0.0,0.0
+2015-04-22,0.0,0.0,Calbuco,Chile-S,Chile,-41.33,-72.618,1974,Stratovolcano,0.0,0.0,0.0
+2015-05-02,5584.0,10140.0,Sumisujima,Izu Is-Japan,Japan,31.44,140.051,136,Submarine volcano,0.0,0.0,0.0
+2015-05-07,0.0,0.0,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,0.0,0.0,0.0
+2015-07-31,0.0,0.0,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,2.0,0.0,2.0
+2015-10-16,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,1.0,0.0
+2015-10-01,0.0,0.0,Okataina,New Zealand,New Zealand,-38.12,176.5,1111,Lava dome,0.0,1.0,0.0
+2016-05-09,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,1.0,4.0
+2016-05-21,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,7.0,3.0
+2016-06-09,0.0,0.0,Yellowstone,US-Wyoming,United States,44.43,-110.67,2805,Caldera,0.0,1.0,0.0
+2016-09-27,0.0,0.0,Rinjani,Lesser Sunda Is,Indonesia,-8.42,116.47,3726,Stratovolcano,0.0,0.0,0.0
+2016-10-08,0.0,0.0,Asosan,Kyushu-Japan,Japan,32.884,131.104,1592,Caldera,0.0,0.0,0.0
+2017-03-15,0.0,0.0,Etna,Italy,Italy,37.748,14.999,3320,Stratovolcano,0.0,0.0,10.0
+2017-04-13,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,2.0,0.0,0.0
+2017-06-06,0.0,0.0,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,2.0,0.0,0.0
+2017-07-01,0.0,0.0,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,0.0,8.0,11.0
+2017-09-12,0.0,0.0,Campi Flegrei,Italy,Italy,40.827,14.139,458,Caldera,0.0,3.0,0.0
+2017-09-23,0.0,0.0,Ambae,Vanuatu-SW Pacific,Vanuatu,-15.389,167.835,1496,Shield volcano,0.0,0.0,0.0
+2017-12-18,0.0,0.0,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,0.0,8.0,8.0
+2017-12-27,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,0.0,0.0
+2018-01-05,0.0,0.0,Kadovar,New Guinea-NE of,Papua New Guinea,-3.608,144.588,365,Stratovolcano,0.0,0.0,0.0
+2018-01-13,0.0,0.0,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,0.0,0.0,1972.0
+2018-01-23,0.0,0.0,Kusatsu-Shiranesan,Honshu-Japan,Japan,36.618,138.528,2165,Stratovolcano,0.0,1.0,11.0
+2018-02-01,0.0,0.0,Kilauea,Hawaiian Is,United States,19.421,-155.287,1222,Shield volcano,1.0,1.0,3.0
+2018-02-09,5676.0,0.0,Kadovar,New Guinea-NE of,Papua New Guinea,-3.608,144.588,365,Stratovolcano,0.0,0.0,0.0
+2018-03-21,0.0,0.0,Ijen,Java,Indonesia,-8.058,114.242,2769,Stratovolcano,0.0,0.0,30.0
+2018-03-30,0.0,0.0,Ambae,Vanuatu-SW Pacific,Vanuatu,-15.389,167.835,1496,Shield volcano,3.0,4.0,0.0
+2018-04-28,5678.0,10332.0,Kilauea,Hawaiian Is,United States,19.421,-155.287,1222,Shield volcano,1.0,0.0,1.0
+2018-05-06,5796.0,10556.0,Sumisujima,Izu Is-Japan,Japan,31.44,140.051,136,Submarine volcano,0.0,0.0,0.0
+2018-06-03,0.0,0.0,Fuego,Guatemala,Guatemala,14.473,-90.88,3763,Stratovolcano,2.0,201.0,27.0
+2018-07-16,0.0,0.0,Kilauea,Hawaiian Is,United States,19.421,-155.287,1222,Shield volcano,0.0,0.0,23.0
+2018-08-25,0.0,0.0,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,4.0,0.0,0.0
+2018-12-15,0.0,10382.0,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,2.0,0.0,0.0
+2018-12-22,5699.0,0.0,Krakatau,Indonesia,Indonesia,-6.102,105.423,155,Caldera,3.0,437.0,31943.0
+2018-12-26,0.0,10383.0,Etna,Italy,Italy,37.748,14.999,3320,Stratovolcano,2.0,0.0,28.0
+2019-01-07,0.0,0.0,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,4.0,0.0,0.0
+2019-05-07,0.0,0.0,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,0.0,0.0,0.0
+2019-06-26,0.0,0.0,Ulawun,New Britain-SW Pac,Papua New Guinea,-5.05,151.33,2334,Stratovolcano,0.0,0.0,2.0
+2019-06-28,0.0,0.0,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,4.0,0.0,0.0
+2019-07-03,0.0,0.0,Stromboli,Italy,Italy,38.789,15.213,924,Stratovolcano,2.0,1.0,1.0
+2019-08-28,5716.0,0.0,Stromboli,Italy,Italy,38.789,15.213,924,Stratovolcano,2.0,0.0,0.0
+2019-12-09,0.0,0.0,Whakaari/White Island,New Zealand,New Zealand,-37.52,177.18,294,Stratovolcano,2.0,22.0,25.0
+2020-01-12,0.0,0.0,Taal,Luzon-Philippines,Philippines,14.002,120.993,311,Stratovolcano,4.0,39.0,0.0
+2020-05-29,5748.0,10501.0,Ijen,Java,Indonesia,-8.058,114.242,2769,Stratovolcano,0.0,1.0,0.0
+2021-03-05,0.0,0.0,Sangay,Ecuador,Ecuador,-2.005,-78.341,5286,Stratovolcano,2.0,0.0,0.0
+2021-03-01,0.0,0.0,Pacaya,Guatemala,Guatemala,14.382,-90.601,2569,Complex volcano,1.0,0.0,0.0
+2021-04-09,0.0,0.0,Soufriere St. Vincent,W Indies,St. Vincent & the Grenadines,13.33,-61.18,1220,Stratovolcano,0.0,0.0,0.0
+2021-05-22,0.0,10545.0,Nyiragongo,Africa-C,"Congo, DRC",-1.52,29.25,3470,Stratovolcano,2.0,32.0,0.0
+2021-09-19,0.0,0.0,La Palma,Canary Is,Spain,28.57,-17.83,2426,Stratovolcano,0.0,1.0,0.0
+2021-12-04,0.0,0.0,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3.0,45.0,169.0
+2022-01-13,5827.0,0.0,Hunga Tonga-Hunga Ha'apai,Tonga-SW Pacific,Tonga,-20.536,-175.382,114,Submarine volcano,0.0,0.0,0.0
+2022-01-15,5824.0,0.0,Hunga Tonga-Hunga Ha'apai,Tonga-SW Pacific,Tonga,-20.536,-175.382,114,Submarine volcano,5.0,6.0,20.0
+2022-01-16,5825.0,0.0,Hunga Tonga-Hunga Ha'apai,Tonga-SW Pacific,Tonga,-20.536,-175.382,114,Submarine volcano,0.0,0.0,0.0
+2022-06-22,0.0,0.0,Popocatepetl,Mexico,Mexico,19.023,-98.622,5393,Stratovolcano,2.0,1.0,0.0
+2022-10-09,5865.0,0.0,Stromboli,Italy,Italy,38.789,15.213,924,Stratovolcano,2.0,0.0,0.0
