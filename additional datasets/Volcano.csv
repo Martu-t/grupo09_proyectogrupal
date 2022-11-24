@@ -1,4 +1,4 @@
-Fecha,Tsu,Eq,Name,Location,Country,Latitude,Longitude,Elevation (m),Type,VEI,Total Deaths,Total Injuries
+Date,Tsu,Eq,Name,Location,Country,Latitude,Longitude,Elevation_m,Type,VEI,Total_Deaths,Total_Injuries
 2010-01-01,0.0,0.0,Tungurahua,Ecuador,Ecuador,-1.467,-78.442,5023,Stratovolcano,3.0,0.0,0.0
 2010-03-31,0.0,0.0,Eyjafjallajokull,Iceland-S,Iceland,63.633,-19.633,1651,Stratovolcano,2.0,2.0,0.0
 2010-05-27,0.0,0.0,Pacaya,Guatemala,Guatemala,14.382,-90.601,2569,Complex volcano,1.0,1.0,0.0
