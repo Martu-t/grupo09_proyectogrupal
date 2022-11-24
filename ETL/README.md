@@ -4,7 +4,7 @@
 
 
 ##  Propuesta de la sección
-Bienvenidx a la sección de ETL
+Bienvenido/a la sección de ETL
 
 ## Herramientas utilizadas:
 
@@ -18,7 +18,6 @@ Bienvenidx a la sección de ETL
 
 En la siguiente imagen se pueden ver el flujo completo de los datos a tráves del pipeline y las herramientas útilizadas en cada uno.
 
-![image](https://i.ibb.co/4F2F0tC/Diagrama-Pipeline.png)
 
 ### Pasos de forma detallada
 
