@@ -1,4 +1,4 @@
-Fecha,Tsu,Vol,Location Name,Latitude,Longitude,Focal Depth (km),Mag,MMI Int,Total Deaths,Total Injuries,Temp_C,Wind_ms,Precip_mm
+Fecha,Tsu,Vol,Location Name,Latitude,Longitude,Focal_Depth_km,Mag,MMI_Int,Total_Deaths,Total_Injuries,Temp_C,Wind_ms,Precip_mm
 2010-01-02,0.0,0.0,TAJIKISTAN,38.245,71.467,47.0,5.1,0.0,0.0,0.0,-13.0,3.6,0.0
 2010-01-03,4522.0,0.0,SOLOMON ISLANDS,-8.743,157.477,26.0,6.6,0.0,0.0,0.0,0.0,0.0,0.0
 2010-01-03,4523.0,0.0,SOLOMON ISLANDS,-8.799,157.346,25.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0
