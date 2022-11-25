@@ -89,8 +89,8 @@ En la siguiente imagen se pueden ver el flujo completo de los datos a tráves de
 - Validar datos antes de la carga a la base de datos
 - Documentación que se encuentra en esta carpeta
     - Notebooks y scripts de extracción, transformacion y carga)
-    - Diagrama Entidad-Relación
-    - Diccionario de datos 
+    - Diseño del diagrama Entidad-Relación
+    - Diccionario de datos para cada tabla utilizada
     - Workflow detallando el ciclo del dato (adjunto en este Readme.)
 
 
