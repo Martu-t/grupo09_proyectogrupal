@@ -38,8 +38,6 @@ Fortalecer habilidades blandas y de comunicación.
 Afianzar y perfeccionar conocimientos aprendidos en la carrera de Data Science. 
 
 
-
-
 ## Alcance: 
 
 El alcance del trabajo será ofrecer un servicio para la sociedad, enfocándose en un análisis valioso para la misma. Para esto se pondrá en el papel del ciudadano común y se intentará “bajar a tierra” conocimientos científicos para que el público pueda comprender y beneficiarse de la información recolectada. 
@@ -127,9 +125,9 @@ Python = Extracción, EDA, Transformación, carga a base de datos (inicial e inc
 
 - Github = Repositorio de GITHUB y control de versiones. 
 
-- Docker = Entorno de desarrollo. 
+- Python y sus librerías = Para ETL automatizado (incluïda conexión a BD). Uso de Tweepy para conectar a la API de Twitter
 
-- PostgreSQL= Creación y manejo de Base de datos. 
+- PostgreSQL= Creación y manejo de Base de datos. Se utiliza el motor a traves de AWS (con base de datos RDS)
 
 - Power BI = Presentación de dashboard 
 
@@ -150,10 +148,10 @@ Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de c
 Los entregables de cada sprints serán: 
 
 #### Semana 1: 
-Propuesta de trabajo, efectivamente fundamentada y documentada. 
+Propuesta de trabajo, efectivamente fundamentada y documentada. Completo
 
 #### Semana 2: 
-Creación de Data Warehouse y carga en el mismo, utilizando el Stack tecnológico más adecuado y documentando el proceso.  
+Creación de Data Warehouse y carga inicial e incremental. Utilizando el Stack tecnológico más adecuado y documentando el proceso. Completo 
 
 #### Semana 3:
 Dashboard y modelo de Machine Learning. 
@@ -199,6 +197,8 @@ https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/eda.ipynb
 - Fuente de datos principal: https://earthquake.usgs.gov/fdsnws/event/1/
 - Fuentes de datos complementarios: Se agregan 3 dataset adicionales que se pueden encontrar en la carpeta: additional datasets
 
+## ETL
+Todo el proceso se encuentra en la carpeta [ETL](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ETL) de este mismo repositorio
 
 ## Diccionario de datos general: 
 
