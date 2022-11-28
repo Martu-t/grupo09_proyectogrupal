@@ -32,8 +32,8 @@ Ondas Sísmicas:
 -  Ondas S. También llamadas secundarias. Se desplazan solamente por sólidos.
 -  Ondas L. Son las que alcanzan la superficie terrestre. Se desplazan con lentitud y generan fuertes movimientos de la corteza. Estas ondas se clasifican a su vez en: ondas Rayleigh (causan un movimiento rodante parecido a las ondas del mar y sus partículas se mueven en forma elipsoidal en el plano vertical, que pasa por la dirección de propagación)
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/ondas%20R.jpg' height = 300 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/ondas%20R.jpg' height = 200 >
 
 y ondas Love (provocan cortes horizontales en la tierra además de ser levemente más lentas que las ondas de Rayleigh).
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/ondas%20L.jpg' height = 300 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/ondas%20L.jpg' height = 200 >
