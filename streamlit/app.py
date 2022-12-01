@@ -160,12 +160,11 @@ def about():
     st.subheader('Algunas recomendaciones generales')
     st.markdown('''
     En caso de sismos es importante:
-    - Mantener calma y ubicarse en lugares de “protección sísmica”: es decir, debajo de un elemento firme y, si ello no fuera posible, junto al mismo.
+    - Mantener calma y ubicarse en lugares de “protección sísmica”: es decir, debajo de un elemento firme y, si ello no fuera posible, junto al mismo. [Más información](https://www.onemi.gov.cl/wp-content/uploads/2013/08/sismos_ok_julio_2013.pdf)
     - Cortar la energía eléctrica y cerrar las llaves de paso de agua y gas.
     - Alejarse de los objetos que puedan caerse, deslizarse o quebrarse, como vidrios, espejos o muebles.
     - Si estás en la calle, mantenete alejado de edificios, postes y cables eléctricos.
     - Si vas conduciendo, disminuí la velocidad y, si podés, detenete en un lugar seguro
-    - Identificá los lugares de protección sísmica. [Más información](https://www.onemi.gov.cl/wp-content/uploads/2013/08/sismos_ok_julio_2013.pdf)
     ''')
     
 
