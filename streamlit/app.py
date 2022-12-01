@@ -148,7 +148,8 @@ def about():
     st.markdown('''
     Somos un equipo enfocado en convertir datos en información útil para la sociedad.
     A tráves de este proyecto buscamos informar a la población sobre sismos ocurridos recientemente. 
-    Para lograrlo contamos con un módelo de Machine Learning que nos ayuda a clasificar ágilmente aqullos eventos menos significativos.
+    ''')
+    st.markdown('''Para lograrlo contamos con un módelo de Machine Learning que nos ayuda a clasificar ágilmente aqullos eventos menos significativos.
     A tráves de un anális de datos, logramos mapear aquellos sismos que ocurren cerca de lugares poblados para poder alertar adecuadamente.
     También disponemos de un [Twitter](https://twitter.com/alertas_sismos) donde informamos de dichos eventos y nuestras recomendaciones particulares. ''')
     #st.markdown('''Recomendamos seguirnos para poder acceder a la información en tiempo casi real. ''')
