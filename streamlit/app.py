@@ -60,17 +60,17 @@ def main_page():
     st.subheader('Sistema de alertas sísmico')
     st.write('****')
 
-    st.title('Datos de los últimos terremotos en Chile')
+    st.title('Datos de los últimos sismos en Chile')
     if st.checkbox('Ver tabla completa'):
         st.dataframe(chile)
 
-    if st.checkbox('Ver ultimos 5 sismos'):
+    if st.checkbox('Ver últimos 5 registros'):
         if st.button('show head'):
             st.write(chile.head())
         #if st.button('show tail'):
             #st.write(chile.tail())
 
-    st.subheader('Conocé nuestros datos')
+    st.subheader('Tamaño de la tabla')
     df_dim = st.radio('Seleccionar dimensión:', ('Filas', 'Columnas', 'Ambas'), horizontal=True)
 
     if df_dim == 'Filas':
@@ -86,7 +86,7 @@ def main_page():
 
     st.subheader('Mapa de últimos sismos en Chile')
     st.write('En el mapa se pueden visualizar los últimos sismos en la región de Chile')
-    st.write('Se puede elegir un filtro por magnitud y/o fecha para una búsquda acotada.')
+    st.write('Se puede elegir un filtro por magnitud y/o fecha para una búsquda más acotada.')
     st.write('Por defecto se muestra todo')
     mag_max = st.slider('Max Magnitud', 0, 10, 9)
     start_date = st.date_input("Start Date", value=pd.to_datetime(chile['date'].iloc[-1], format="%Y-%m-%d"))
@@ -128,8 +128,8 @@ def main_page():
     En el mapa se pueden ver los últimos sismos del país de Chile y alrededores.
     Los círculos están representados con colores, según la magnitud del mismo, siendo:
     - Verde: Sismos con magnitudes menores a 4
-    - Naranja: Sismos con magnitudes menores entre 4 y 5
-    - Rojo: Sismos con magnitudes menores a 5
+    - Naranja: Sismos con magnitudes entre 4 y 5
+    - Rojo: Sismos con magnitudes mayores a 5
     ''')
 
 def about():
@@ -148,19 +148,23 @@ def about():
     st.markdown('''
     Somos un equipo enfocado en convertir datos en información útil para la sociedad.
     A tráves de este proyecto buscamos informar a la población sobre sismos ocurridos recientemente. 
-    Para lograrlo contamos con un módelo de Machile Learning que nos ayuda a clasificar ágilmente aqullos eventos más significativos.
-    También disponemos de un Twiiter donde informamos de dichos eventos y nuestras recomendaciones particulares. ''')
-    st.markdown('''Recomendamos seguirnos para poder acceder a la información en tiempo real [Twitter](https://twitter.com/alertas_sismos) ''')
-    st.markdown('''Además nuestro código está disponible en nuestro repositorio de [GitHub del proyecto](hhttps://github.com/Martu-t/grupo09_proyectogrupal)
+    Para lograrlo contamos con un módelo de Machine Learning que nos ayuda a clasificar ágilmente aqullos eventos menos significativos.
+    A tráves de un anális de datos, logramos mapear aquellos sismos que ocurren cerca de lugares poblados para poder alertar adecuadamente.
+    También disponemos de un Twitter donde informamos de dichos eventos y nuestras recomendaciones particulares. ''')
+    st.markdown('''Recomendamos seguirnos para poder acceder a la información en tiempo casi real [Twitter](https://twitter.com/alertas_sismos) ''')
+    st.markdown('''Además nuestro código fuente está disponible, para asegurar una transparencia en el servicio. Podes encontrarlo en nuestro repositorio de [GitHub](hhttps://github.com/Martu-t/grupo09_proyectogrupal)
     ''')
 
     st.write('****')
-    st.subheader('Nuestras recomendaciones generales')
+    st.subheader('Algunas recomendaciones generales')
     st.markdown('''
     En caso de sismos es importante:
     - Mantener calma y ubicarse en lugares de “protección sísmica”: es decir, debajo de un elemento firme y, si ello no fuera posible, junto al mismo.
     - Cortar la energía eléctrica y cerrar las llaves de paso de agua y gas.
     - Alejarse de los objetos que puedan caerse, deslizarse o quebrarse, como vidrios, espejos o muebles.
+    - Si estás en la calle, mantenete alejado de edificios, postes y cables eléctricos.
+    - Si vas conduciendo, disminuí la velocidad y, si podés, detenete en un lugar seguro
+    - Identificá los lugares de protección sísmica. [Más información](https://www.onemi.gov.cl/wp-content/uploads/2013/08/sismos_ok_julio_2013.pdf)
     ''')
     
 
