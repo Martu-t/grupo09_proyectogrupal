@@ -189,7 +189,7 @@ page_names_to_funcs[selected_page]()
 
 footer="""<style>
 a:link , a:visited{
-color: black;
+color: #000080;
 background-color: transparent;
 text-decoration: none;
 }
