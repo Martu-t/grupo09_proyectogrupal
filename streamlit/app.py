@@ -150,8 +150,8 @@ def about():
     A tráves de este proyecto buscamos informar a la población sobre sismos ocurridos recientemente. 
     Para lograrlo contamos con un módelo de Machine Learning que nos ayuda a clasificar ágilmente aqullos eventos menos significativos.
     A tráves de un anális de datos, logramos mapear aquellos sismos que ocurren cerca de lugares poblados para poder alertar adecuadamente.
-    También disponemos de un Twitter donde informamos de dichos eventos y nuestras recomendaciones particulares. ''')
-    st.markdown('''Recomendamos seguirnos para poder acceder a la información en tiempo casi real [Twitter](https://twitter.com/alertas_sismos) ''')
+    También disponemos de un [Twitter](https://twitter.com/alertas_sismos) donde informamos de dichos eventos y nuestras recomendaciones particulares. ''')
+    #st.markdown('''Recomendamos seguirnos para poder acceder a la información en tiempo casi real. ''')
     st.markdown('''Además nuestro código fuente está disponible, para asegurar una transparencia en el servicio. Podes encontrarlo en nuestro repositorio de [GitHub](hhttps://github.com/Martu-t/grupo09_proyectogrupal)
     ''')
 
