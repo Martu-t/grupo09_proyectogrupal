@@ -27,11 +27,20 @@ database_conection=db.create_engine(f"postgresql://{database_username}:{database
 connection = database_conection.raw_connection()
 metadata=db.MetaData()
 cursor = connection.cursor()
-df = pd.read_sql_query('SELECT mag, place, time, type, depth, lon, lat FROM public.earthquake ORDER BY time DESC LIMIT 5000;',con=database_conection)
+#df = pd.read_sql_query('SELECT mag, place, time, type, depth, lon, lat FROM public.earthquake ORDER BY time DESC LIMIT 5000;',con=database_conection)
+#df2 = pd.read_sql_query('SELECT mag, place, time, type, depth, lon, lat FROM public.earthquake WHERE ((lat BETWEEN -56.17 AND -16.889) AND (lon BETWEEN -76.553 AND -67.236)) ORDER BY time DESC;',con=database_conection)
+
+df2 = pd.read_sql_query('SELECT e.place, e.mag, e.time, e.type, e.lat, e.lon, e.depth, t.fecha, t.clasificacion, t.id_ciudad, t.distancia, p.nombre, p.provincia FROM earthquake e JOIN twitter t ON t.id_terremotos = e.id JOIN poblacion_chile p ON  p.id = t.id_ciudad;',con=database_conection)
+
 connection.close()
-df = df.dropna()
-chile = df[df['place'].str.contains('Chile')]
+#df = df.dropna()
+#df2 = df2.dropna()
+
+chile = df2[df2['place'].str.contains('Chile')]
 chile[['date', 'time_only']] = chile['time'].apply(lambda x: pd.Series(str(x).split(' ')))
+df2[['date', 'time_only']] = df2['time'].apply(lambda x: pd.Series(str(x).split(' ')))
+
+
     #return chile
 
 #fields = ['mag', 'place', 'time', 'depth', 'lon', 'lat']
@@ -70,24 +79,29 @@ def main_page():
         #if st.button('show tail'):
             #st.write(chile.tail())
 
-    st.subheader('Tamaño de la tabla')
-    df_dim = st.radio('Seleccionar dimensión:', ('Filas', 'Columnas', 'Ambas'), horizontal=True)
-
-    if df_dim == 'Filas':
-        st.write('Total de Filas:', chile.shape[0])
-
-    if df_dim == 'Columnas':
-        st.write('Total de columnas:', chile.shape[1])
-
-    if df_dim == 'Ambas':
-        st.write('Total Filas', chile.shape[0], 'Total de Columas:', chile.shape[1])
     
+    #st.subheader('Tamaño de la tabla')
+    #df_dim = st.radio('Seleccionar dimensión:', ('Filas', 'Columnas', 'Ambas'), horizontal=True)
+
+    #if df_dim == 'Filas':
+    #    st.write('Total de Filas:', chile.shape[0])
+
+    #if df_dim == 'Columnas':
+        #st.write('Total de columnas:', chile.shape[1])
+
+    #if df_dim == 'Ambas':
+    #    st.write('Total Filas', chile.shape[0], 'Total de Columas:', chile.shape[1])
+
     st.write('****')
 
     st.subheader('Mapa de últimos sismos en Chile')
     st.write('En el mapa se pueden visualizar los últimos sismos en la región de Chile')
     st.write('Se puede elegir un filtro por magnitud y/o fecha para una búsquda más acotada.')
     st.write('Por defecto se muestra todo')
+
+    #values = st.slider('Select a range of values',1, 10, (2, 5))
+    #st.write('Values:', values)
+
     mag_max = st.slider('Max Magnitud', 0, 10, 9)
     start_date = st.date_input("Start Date", value=pd.to_datetime(chile['date'].iloc[-1], format="%Y-%m-%d"))
     end_date = st.date_input("End Date", value=pd.to_datetime(chile['date'].iloc[1], format="%Y-%m-%d"))
@@ -107,9 +121,9 @@ def main_page():
         width=1024,
         height=600
     )
-    chile2 = chile.loc[((chile['date'] >= start_d) & (chile['date'] <= end_d )) & (chile['mag']<=mag_max)]
+    dffiltro = chile.loc[((chile['date'] >= start_d) & (chile['date'] <= end_d )) & (chile['mag']<=mag_max)]
 
-    for _, row in chile2.iterrows():
+    for _, row in dffiltro.iterrows():
         c_outline, c_fill, m_opacity, f_opacity = generate_color(row['mag'])
         folium.CircleMarker(
             location=[row['lat'], row['lon']],
@@ -131,6 +145,7 @@ def main_page():
     - Naranja: Sismos con magnitudes entre 4 y 5
     - Rojo: Sismos con magnitudes mayores a 5
     ''')
+
 
 def about():
     st.markdown("Bienvenidos")
@@ -170,20 +185,11 @@ def about():
 
 page_names_to_funcs = {
     'I. Sobre nosotros': about,
-    'II. Mapa Chile': main_page
+    'II. Mapa Twitter Chile': main_page,
 }
 
 selected_page = st.sidebar.selectbox("Elija la página", page_names_to_funcs.keys())
 page_names_to_funcs[selected_page]()
-
-
-
-
-
-
-
-
-
 
 
 footer="""<style>
