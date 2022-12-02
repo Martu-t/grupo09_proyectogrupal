@@ -30,7 +30,7 @@ En cuanto al análisis de la clasificación para tabla de twitter, en un comienz
 
 La clasificación elegida a través del análisis de los datos se dividirá en 4 grupos de la siguiente manera: 
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_2.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_2.png' height = 100 >
 
 •	0 = No se informará en twitter.
 •	1 = Se enviará un mensaje de “aviso” (verde).
@@ -40,7 +40,7 @@ La clasificación elegida a través del análisis de los datos se dividirá en 4
 Por lo que el análisis de como se categorizará el “dato” que ingrese como nuevo terremoto, se decidió realizar a través Magnitud y por cercania / tipo de ciudad. Esto, dado que la cercania (distancia en kilómetros) a una zona específica puede ser parámetro subjetivo de informe, como también si la ciudad es grande o chica. Ya que sin dudas, las consecuencias de un terremoto en una ciudad como Santiago de Chile, pueden ser muy distintas a si ocurre en una zona rural.
 Para ello, se diseñó la siguiente tabla, en la que, dependiendo los sucesos que vayan aconteciendo y según las características antes mencionadas, puedan encontrarse clasificadas en alguna, y sólo una, de las categorías antes mencionadas: “0”,”1”,”2” o “3”.
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_3.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_3.png' height = 100 >
 
 Y luego los siguientes gráficos son parte del análisis de la clasificación de la tabla twitter. Estos particularmente a la última categoría de Magnitud.
 
