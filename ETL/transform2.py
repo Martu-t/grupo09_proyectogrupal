@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+import re
 
 
 
@@ -119,6 +120,8 @@ def col_dist(data):
     return data2   
 
 def outliers_depth(x):
+    if str(x) == 'nan':
+        return 10
     if x < 10:
         return 10
     else:

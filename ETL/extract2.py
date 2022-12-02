@@ -36,6 +36,7 @@ def extr():
     # get data from the API and save as .csv
     query = 'https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime='+t
     gdf = gpd.read_file(query)
+    gdf.drop(gdf.tail(1).index, inplace=True) #eliminates last row because it will be duplicated in our DB
     gdf.to_csv('extracted1.csv', index=False)
 
 extr()
