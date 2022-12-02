@@ -57,7 +57,7 @@ def getdata():
     metadata=db.MetaData()
     cursor = connection.cursor()
     df = pd.read_sql_query('SELECT p.nombre, t.id, t.id_terremotos, t.fecha, t.clasificacion, t.id_ciudad, t.distancia FROM public.poblacion_chile as p JOIN public.twitter as t ON t.id_ciudad = p.id WHERE fecha is null',con=database_conection)
-    connection.close()
+    #connection.close()
     df1 = df[df['clasificacion'] == 1]
     df2 = df[df['clasificacion'] == 2]
     df3 = df[df['clasificacion'] == 3]
@@ -71,12 +71,28 @@ def tweet_alerta1():
     df1 =  getdata()[0]
     #df1 = getdata()[0]
     for i in range(len(df1)):
+        id = df1.iloc[i]['id']
         id_terremoto = (df1.iloc[i]['id_terremotos'])
         ciudad = (df1.iloc[i]['nombre'])
         dist = (df1.iloc[i]['distancia'])
         alerta_verde = f'TEST. {green} ¿Lo sentiste? No estás loco/a! Sismo leve a {dist} km de {ciudad}. No te preocupes. La tierra {mundo} solo se está acomodando {ginio}'
         PublicarTweet(alerta_verde)
         print(f'Se ha emitido el Tweet del terremoto con id: {id_terremoto}')
+
+        #conection db to set timestamp
+        database_conection=db.create_engine(f"postgresql://{database_username}:{database_password}@{database_ip}/{database_name}")
+        connection = database_conection.raw_connection()
+        metadata=db.MetaData()
+        cursor = connection.cursor()
+        sql_query = f"""
+        UPDATE public.twitter
+        SET fecha = current_timestamp
+        WHERE id = {id};
+        """
+        database_conection.execute(sql_query)
+        #print('fetching ids from database')
+        connection.close()
+        print(f'Se ha actualizado la base de datos del tweet con id: {id}')
         
 
 def tweet_alerta2():
@@ -86,15 +102,31 @@ def tweet_alerta2():
     caminar = '\U0001F6B6'
     df2 =  getdata()[1]
     for i in range(len(df2)):
+        id = df2.iloc[i]['id']
         id_terremoto = (df2.iloc[i]['id_terremotos'])
         ciudad = (df2.iloc[i]['nombre'])
         dist = (df2.iloc[i]['distancia'])
-        alerta_naranja = f'''{alert} Quedate donde estás. Sismo medio a {dist} km de {ciudad}.
-        El manejo de vehículos {auto} no es seguro {no} y podés tener dificultad de mantenerte en pie{caminar}. 
-        Si estás en un vehiculo, detente. Agáchate, Cubrite y agarrate. Alejarse de muebles y ventanas. 
-        Tranquilo, ya pasará.'''
+        alerta_naranja = f'{alert} TEST Sismo medio a {dist} km de {ciudad}. El manejo de vehículos {auto} no es seguro {no} y podés tener dificultad de quedarte en pie{caminar}. Agáchate, Cubrite y agarrate. Alejarse de muebles y ventanas. Ya pasará.'
         PublicarTweet(alerta_naranja)
         print(f'Se ha emitido el Tweet del terremoto con id: {id_terremoto}')
+
+
+        #conection db to set timestamp
+        database_conection=db.create_engine(f"postgresql://{database_username}:{database_password}@{database_ip}/{database_name}")
+        connection = database_conection.raw_connection()
+        metadata=db.MetaData()
+        cursor = connection.cursor()
+        sql_query = f"""
+        UPDATE public.twitter
+        SET fecha = current_timestamp
+        WHERE id = {id};
+        """
+        database_conection.execute(sql_query)
+        #print('fetching ids from database')
+        connection.close()
+        print(f'Se ha actualizado la base de datos del tweet con id: {id}')
+
+        
 
 def tweet_alerta3():
     casa = '\U0001F3E1'
@@ -105,31 +137,47 @@ def tweet_alerta3():
     df3 =  getdata()[2]
     for i in range(len(df3)):
         id_terremoto = (df3.iloc[i]['id_terremotos'])
+        id = df3.iloc[i]['id']
         ciudad = (df3.iloc[i]['nombre'])
         dist = (df3.iloc[i]['distancia'])
-        alerta_roja = f'{alerta} PRUEBA Alerta máxima. Atención{ojos}. Sismo importante a {dist} de {ciudad}. Importante agacharse, cubrirse la cabeza y agarrarte a algo. Atento a las estructuras {casa}. Tu perspectiva quedará distorsionada. Es normal. Algunos servicios sin funcionamiento. Atento/a a futuras réplicas{soon}'
-        PublicarTweet(alerta_roja)  
+        alerta_roja = f'{alerta} PRUEBA Alerta máxima. Sismo grande a {dist} de {ciudad}. Importante agacharse, cubrirse y agarrarte a algo. Cuidado con las estructuras {casa}. Algunos servicios sin funcionamiento. Atento/a a futuras réplicas{ojos}'
+        PublicarTweet(alerta_roja)
         print(f'Se ha emitido el Tweet del terremoto con id: {id_terremoto}')
 
+        #conection db to set timestamp
+        database_conection=db.create_engine(f"postgresql://{database_username}:{database_password}@{database_ip}/{database_name}")
+        connection = database_conection.raw_connection()
+        metadata=db.MetaData()
+        cursor = connection.cursor()
+        sql_query = f"""
+        UPDATE public.twitter
+        SET fecha = current_timestamp
+        WHERE id = {id};
+        """
+        database_conection.execute(sql_query)
+        #print('fetching ids from database')
+        connection.close()
+        print(f'Se ha actualizado la base de datos del tweet con id: {id}')
+'''
 def updatetime():
     # This query fetches the 20 latest id from database
     database_conection=db.create_engine(f"postgresql://{database_username}:{database_password}@{database_ip}/{database_name}")
     connection = database_conection.raw_connection()
     metadata=db.MetaData()
     cursor = connection.cursor()
-    sql_query = """
+    sql_query = f"""
     UPDATE public.twitter
     SET fecha = current_timestamp
-    WHERE fecha is null;
+    WHERE fecha is {database_conection};
     """
     database_conection.execute(sql_query)
+    #print('fetching ids from database')
     connection.close()
+'''
 
-while True:
-    tweet_alerta1()
-    time.sleep(3)
-    tweet_alerta2()
-    time.sleep(3)
-    tweet_alerta3()
-    updatetime()
-    time.sleep(3600)
+tweet_alerta1()
+time.sleep(3)
+tweet_alerta2()
+time.sleep(3)
+tweet_alerta3()
+#updatetime()
