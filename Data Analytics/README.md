@@ -44,13 +44,13 @@ Para ello, se diseñó la siguiente tabla, en la que, dependiendo los sucesos qu
 
 Los siguientes gráficos son parte del análisis de la clasificación de la tabla twitter. Estos particularmente a la última categoría de Magnitud.
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_4.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_4.png' height = 250 >
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_5.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_5.png' height = 250 >
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_6.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_6.png' height = 250 >
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_7.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_7.png' height = 250 >
 
 Para distancia y ciudades nos basamos en registros de prevención y que hacer en cada caso según la magnitud, que se mueve y sensaciones (y seguridad a tener en cuenta) a medida que crece en escala.
 
@@ -62,11 +62,11 @@ El gráfico de tendencia de magnitudes en base al tiempo no nos indica mucho. So
 
 En cuanto a la distancia en kilómetros realizamos un estimativo, siempre utilizando el mismo criterio sobre preferencia de prevención (en las 3 clasificaciones), en base a terremotos ocurridos y sobre todo a información recolectada de institutos y centros sismológicos de 250 km para considerar como chica o grande. Mismo criterio sobre población, basándonos en intercuartiles (1/4) de la cantidad de población por ciudad.
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_10.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_10.png' height = 250 >
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_11.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_11.png' height = 250 >
 
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_12.png' height = 200 >
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_12.png' height = 100 >
 
 Aquí, se puede observar que los cuartiles de población son “10.833”,”21.477” y “74.188” habitantes, respectivamente. Tomamos como criterio utilizar la mediana, ya que debemos darle importancia a la mayoría y por ello decidimos utilizar un valor muy cercano a la mediana 20.000 habitantes. 
 Al no haber criterio establecido de cual zona se considera amplia y no poder establecerlo con precisión, utilizando la prevención ya que estamos hablando de fenómenos naturales y que está relacionado a vidas de personas o probables pérdidas materiales, es que se utiliza el parámetro de 250km como divisor entre distancia chica y distancia grande.
