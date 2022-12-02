@@ -7,7 +7,7 @@ En segundo lugar, Chile es considerado el país sísmicamente más activo del mu
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/mapa.png' height = 450 >
 
 
-El más fuerte se dio el 22 de mayo de 1960, cuando el país registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter.
+El terremoto más fuerte se dio el 22 de mayo de 1960, cuando el país registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter.
 El movimiento telúrico generó un tsunami que arrasó con varias poblaciones costeras e incluso provocó víctimas del otro lado del Pacífico, en Japón, Hawaii y Filipinas. Más de 2.000 personas perdieron la vida como consecuencia del temblor, y el sur del país quedó devastado.
 En el siguiente gráfico se observa que de los 15 terremotos más fuertes del mundo, 3 son en Chile.
 
