@@ -7,14 +7,14 @@ En segundo lugar, Chile es considerado el país sísmicamente más activo del mu
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/mapa.png' height = 450 >
 
 
-El terremoto más fuerte se dio el 22 de mayo de 1960, cuando el país registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter.
+El más fuerte se dio el 22 de mayo de 1960, cuando el país registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter.
 El movimiento telúrico generó un tsunami que arrasó con varias poblaciones costeras e incluso provocó víctimas del otro lado del Pacífico, en Japón, Hawaii y Filipinas. Más de 2.000 personas perdieron la vida como consecuencia del temblor, y el sur del país quedó devastado.
 En el siguiente gráfico se observa que de los 15 terremotos más fuertes del mundo, 3 son en Chile.
 
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analatytics/src/grafico_1.png' height = 350 >
 
 
-A su vez desde el 350 en Latinoamérica, los terremotos por países, de mayor a menor fueron: Chile en 2010, de 8,8 en la escala de Richter; Perú en 3501, de 8,4; Chile en 2015, de 8,3; Chile en 2014, de 8,3; Perú en 3507, de 8,0. Es decir, 3 de los 5 más fuerte fueron en este país.
+A su vez desde el 350 en Latinoamérica, los terremotos por países, de mayor a menor fueron: Chile en 2010, de 8,8 en la escala de Richter; Perú en 2001, de 8,4; Chile en 2015, de 8,3; Chile en 2014, de 8,3; Perú en 2007, de 8,0. Es decir, 3 de los 5 más fuerte fueron en este país.
 
 Chile, es uno de los países más proclives del mundo a sufrir temblores, debido a que está en el llamado Cinturón, o “anillo”, de fuego del Pacífico y gran parte de su territorio está expuesto al constante choque de la placa tectónicas de Nazca y la placa Sudamericana.
 
