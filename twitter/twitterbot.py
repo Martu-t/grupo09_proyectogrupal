@@ -75,7 +75,7 @@ def tweet_alerta1():
         id_terremoto = (df1.iloc[i]['id_terremotos'])
         ciudad = (df1.iloc[i]['nombre'])
         dist = (df1.iloc[i]['distancia'])
-        alerta_verde = f'TEST. {green} ¿Lo sentiste? No estás loco/a! Sismo leve a {dist} km de {ciudad}. No te preocupes. La tierra {mundo} solo se está acomodando {ginio}'
+        alerta_verde = f'TEST. {green} ¿Lo sentiste? No estás loco/a! Sismo leve a {dist} km de {ciudad}. Tranqui. La tierra {mundo} solo se está acomodando {ginio}'
         PublicarTweet(alerta_verde)
         print(f'Se ha emitido el Tweet del terremoto con id: {id_terremoto}')
 
@@ -106,7 +106,7 @@ def tweet_alerta2():
         id_terremoto = (df2.iloc[i]['id_terremotos'])
         ciudad = (df2.iloc[i]['nombre'])
         dist = (df2.iloc[i]['distancia'])
-        alerta_naranja = f'{alert} TEST Sismo medio a {dist} km de {ciudad}. El manejo de vehículos {auto} no es seguro {no} y podés tener dificultad de quedarte en pie{caminar}. Agáchate, Cubrite y agarrate. Alejarse de muebles y ventanas. Ya pasará.'
+        alerta_naranja = f'{alert} TEST Sismo medio a {dist} km de {ciudad}. Manejo de vehículos {auto} es inseguro, Podés tener dificultad de quedarte en pie{caminar}. Alejarse de muebles y ventanas. Ya pasará.'
         PublicarTweet(alerta_naranja)
         print(f'Se ha emitido el Tweet del terremoto con id: {id_terremoto}')
 
@@ -140,7 +140,7 @@ def tweet_alerta3():
         id = df3.iloc[i]['id']
         ciudad = (df3.iloc[i]['nombre'])
         dist = (df3.iloc[i]['distancia'])
-        alerta_roja = f'{alerta} PRUEBA Alerta máxima. Sismo grande a {dist} de {ciudad}. Importante agacharse, cubrirse y agarrarte a algo. Cuidado con las estructuras {casa}. Algunos servicios sin funcionamiento. Atento/a a futuras réplicas{ojos}'
+        alerta_roja = f'{alerta} PRUEBA Alerta máxima. Sismo grande a {dist} de {ciudad}. Importante agacharse y cubrirse. Cuidado con las estructuras {casa}. Algunos servicios sin funcionamiento. Posibles réplicas{ojos}'
         PublicarTweet(alerta_roja)
         print(f'Se ha emitido el Tweet del terremoto con id: {id_terremoto}')
 
