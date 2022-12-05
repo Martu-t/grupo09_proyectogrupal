@@ -23,7 +23,7 @@ La API de donde se extrae la mayor cantidad de datos es [USGS](https://earthquak
 Se realiza una extración inicial con datos desde el 2010 al presente.
 Luego se hacen consultas cada una hora para agregar dicha información a nuestra base de datos.
 
-Además se utilizan 3 dataset adicionales para comparar fenómenos naturales como volcanes, tsunamis y terremotos significativos, para encontrar si hay alguna relación entre ellos. 
+Además se utilizan 3 datasets adicionales para comparar fenómenos naturales como volcanes, tsunamis y terremotos significativos, para encontrar si hay alguna relación entre ellos. 
 
 Fuente: [National Centers for Environmental Information](https://https://www.ngdc.noaa.gov/ngdc.html)
 
