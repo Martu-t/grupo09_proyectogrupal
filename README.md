@@ -243,6 +243,31 @@ En las clases divergentes las placas se separan en sentido opuesto (por ejemplo 
 
 Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma lateral en sentido opuesto (ocurre en la famosa Falla de San Andrés, en el oeste de América del Norte). Éste en particular se trata de uno de los lugares que genera mayor preocupación por los sismólogos por las consecuencias que puede presentar en un futuro cercano. Aquí sucedió uno de las mayores catástrofes de la historia de Estados Unidos, el terremoto de San Francisco en 1906. 
 
+De esta manera, para poder cumplir con los objetivos del proyecto, debimos realizar un análisis de datos, para elegir un país latinoamericano que se adapta a la consigna y a nuestras necesidades, entonces...
+
+#¿Por qué Chile?
+
+Como se comentaba anteriormente, nuestro trabajo se encontraba con el objetivo de realizar una base de datos estandarizada entre Estados Unidos, Japón y un país a elección de Latinoamérica.
+Nuestra elección de país fue Chile. En primer lugar, por nuestra cercanía al país, ya que nos interesaba realizar un proyecto en el cual podamos “ayudar” con un sentido de pertenencia, como lo es un país vecino.
+En segundo lugar, Chile es considerado el país sísmicamente más activo del mundo y el cuarto más expuesto a sufrir daños mayores por catástrofes naturales.
+
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/mapa.png' height = 450 >
+
+
+Como se mencionó ut supra, el 22 de mayo de 1960, Chile registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter, en ese momento.
+El movimiento telúrico generó un tsunami que arrasó con varias poblaciones costeras e incluso provocó víctimas del otro lado del Pacífico, en Japón, Hawaii y Filipinas. Más de 2.000 personas perdieron la vida como consecuencia del temblor, y el sur del país quedó devastado.
+También, en el siguiente gráfico se observa que de los 15 terremotos más fuertes del mundo, 3 fueron en Chile.
+
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_1.png' height = 350 >
+
+
+A su vez desde el 2000 en Latinoamérica, los terremotos por países, de mayor a menor fueron: Chile en 2010, de 8,8 en la escala de Richter; Perú en 2001, de 8,4; Chile en 2015, de 8,3; Chile en 2014, de 8,3; Perú en 2007, de 8,0. Es decir, 3 de los 5 más fuerte fueron en este país.
+
+Chile, es uno de los países más proclives del mundo a sufrir temblores, debido a que está en el llamado Cinturón, o “anillo”, de fuego del Pacífico y gran parte de su territorio está expuesto al constante choque de la placa tectónica de Nazca y la placa Sudamericana. Lo que provoca movimientos de subducción, anteriormente explicados.
+
+Para terminar, al tener que realizar el proyecto con Estados Unidos, Japón y el país latinoamericano a libre elección, sumado a todas las características anteriormente mencionadas, se eligió Chile, ya que se encuentra en otro territorio completamente diferente a los anteriores (en otro hemisferio, comparado con Estados Unidos) y otro continente y hemisferio en relación a Japón. 
+Esto genera que sean distintas zonas geográficas, distintos clima y diferentes puntos en el mapa del mundo, por eso no se optó por ejemplo, por México, ya que es un país vecino a Estados Unidos.
+Para concluir, cabe destacar que así y todo (y no menos importante), los tres países pertenecen al anillo de fuego del pacífico.
  
 
 ## Disclaimer  
