@@ -9,7 +9,7 @@ Bienvenido/a a la sección de ETL. Aquí podrás encontrar todo el código utili
 ## Herramientas utilizadas:
 
  - Python y sus librerías, como Pandas, Numpy y SQLalchemy
- - Maquina virtual a tráves de AWS 
+ - Maquina virtual a través de AWS 
  - Gestor SQL: Postgress 
  - Host base de datos: en AWS (S3)
 
