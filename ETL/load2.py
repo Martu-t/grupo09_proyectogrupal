@@ -11,6 +11,7 @@ def loader():
 
     df = pd.read_csv('transformed1.csv')
     df2 = pd.read_csv('clusterized.csv')
+    df3 = pd.read_csv('twitter.csv')
 
 
     def load(df, table_name):
@@ -44,5 +45,6 @@ def loader():
     #ejecuta las cargas
     load(df, 'earthquake')
     load(df2, 'cluster')
+    load(df3, 'twitter')
 
 loader()
