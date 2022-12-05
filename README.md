@@ -13,9 +13,9 @@
 
 ## Entendimiento de la situación:
 
-Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes. 
+Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana, las medidas de protección y de atención apropiadas resultan urgentes. 
 
-Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva, lo que deriva en una problemática que afecta a la población. Por consiguiente, este proyecto busca facilitar la vida a la sociedad, dándole acceso a información de manera simplificada y en lenguaje cotidiano. 
+Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva, lo que deriva en una problemática que afecta a la población. Por consiguiente, éste proyecto busca facilitar la vida a la sociedad, dándole acceso a información de manera simplificada y en lenguaje cotidiano. 
 
 ##  Objetivos: 
 
@@ -28,7 +28,7 @@ Crear una base de datos que contemple información de sismos en Estados Unidos, 
 
 Incrementar el interés y comprensión de la comunidad en torno a la temática sismográfica.  
 
-Desarrollar bot autómatizado de Twitter qué una vez sucedido un sismo, informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro.
+Desarrollar un bot automatizado de Twitter, que una vez sucedido un sismo informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro.
 
 
 ### Específicos del grupo:
@@ -50,13 +50,13 @@ Se creará una base de datos que albergue información de éstos tres países de
 
 Luego, se realizará en ella, cargas incrementales de los datos a medida que vayan sucediendo, actualizándose cada una hora aproximadamente. 
 
-Además, se implementará un modelo de Machine Learning (ML), específicamente de aprendizaje no supervisado. Podremos así, tener una clasificación de distintos tipos de eventos de manera sencilla.  
+Además, se implementará un modelo de Machine Learning (ML), específicamente de aprendizaje no supervisado. Podremos así, tener una clasificación de distintos tipos de eventos de manera sencilla. En el caso de no obtener una clasificación específica a través del ML, se utilizará un Data Analytics para complementar la información.
 
 En la cuenta de twitter https://twitter.com/alertas_sismos, y en base a la clasificación mencionada, nuestro bot indicará a la sociedad, a través de publicaciones automáticas, si se deberá tomar medidas previsionales añadiendo mínimos detalles técnicos del fenómeno ocurrido.  
 
 Se plantea la posibilidad de realizar el trabajo en un ambiente cloud, para ello se están analizando los distintos entornos para elegir el que más se adecúa al mismo. 
 
-Estará fuera del alcance del proyecto, por razones de complejidad y tiempo, la elaboración de conclusiones específicas cuantitativas respecto a la información secundaria obtenida, como clima, tsunamis y erupciones volcánicas. 
+Estará fuera del alcance del proyecto, por razones de complejidad y tiempo, la elaboración de conclusiones específicas cuantitativas respecto a la información secundaria obtenida, como clima, tsunamis y erupciones volcánicas, asi como técnicas / científicas en general. 
 
 Se plantea la posibilidad de continuación del proyecto una vez concluido el plazo del mismo.
 
@@ -125,15 +125,15 @@ Python = Extracción, EDA, Transformación, carga a base de datos (inicial e inc
 
 - Github = Repositorio de GITHUB y control de versiones. 
 
-- Python y sus librerías = Para ETL automatizado (incluïda conexión a BD). Uso de Tweepy para conectar a la API de Twitter
+- Python y sus librerías = Para ETL automatizado (incluída conexión a BD). Uso de Tweepy para conectar a la API de Twitter.
 
-- PostgreSQL= Creación y manejo de Base de datos. Se utiliza el motor a traves de AWS (con base de datos RDS)
+- PostgreSQL= Creación y manejo de Base de datos. Se utiliza el motor a traves de AWS (con base de datos RDS).
 
-- Power BI = Presentación de dashboard 
+- Power BI = Presentación de dashboard.
 
-- Streamlit = Deploy del módelo de machine learning y mapa interactivo 
+- Streamlit = Deploy del módelo de machine learning y mapa interactivo. 
 
-- Ambiente cloud = Desarrollo de trabajo 
+- Ambiente cloud = Desarrollo de trabajo. 
 
 - Metodología de trabajo: 
 
@@ -148,13 +148,13 @@ Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de c
 Los entregables de cada sprints serán: 
 
 #### Semana 1: 
-Propuesta de trabajo, efectivamente fundamentada y documentada. Completo
+Propuesta de trabajo, efectivamente fundamentada y documentada. **Completo.**
 
 #### Semana 2: 
-Creación de Data Warehouse y carga inicial e incremental. Utilizando el Stack tecnológico más adecuado y documentando el proceso. Completo 
+Creación de Data Warehouse y carga inicial e incremental. Utilizando el Stack tecnológico más adecuado y documentando el proceso. **Completo.** 
 
 #### Semana 3:
-Dashboard y modelo de Machine Learning. 
+Dashboard y modelo de Machine Learning. **Completo.**
 
 #### Semana 4:
 Demostración final y storytelling ante el Product Owner. 
@@ -163,13 +163,13 @@ Demostración final y storytelling ante el Product Owner.
 
 El equipo de trabajo está conformado por: 
 
-Martha Alejandra Tarantino 
+Martha Alejandra Tarantino. 
 
-Federico Gonzalez Pietranera 
+Federico Gonzalez Pietranera. 
 
-Deiner Fabian Silva Rueda 
+Deiner Fabian Silva Rueda. 
 
-Axel Moriena 
+Axel Moriena. 
 
 Los roles y responsabilidades de cada integrante estarán suscitados al perfil de cada uno y en dependencia de las tareas a realizar en cada sprint. 
 
@@ -198,7 +198,7 @@ https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/eda.ipynb
 - Fuentes de datos complementarios: Se agregan 3 dataset adicionales que se pueden encontrar en la carpeta: additional datasets
 
 ## ETL
-Todo el proceso se encuentra en la carpeta [ETL](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ETL) de este mismo repositorio
+Todo el proceso se encuentra en la carpeta [ETL](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ETL) de este mismo repositorio.
 
 ## Diccionario de datos general: 
 
@@ -211,7 +211,7 @@ Para continuar, se cree importante dar el significado de algunos conceptos bási
 
 
 #### Sismo: 
-Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta) causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles, pero en algunos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
+Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta), causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles. Pero en algunos casos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
 
 La diferencia entre sismo y terremoto está dada por la intensidad del movimiento sísmico, el más peligroso, con efectos destructivos que puedan llegar a ser fatales, es el terremoto. 
 
@@ -233,7 +233,7 @@ Magnitud es una medida única del tamaño de un terremoto. Ésta indica cuanta e
 
 Cabe destacar algunos datos importantes, que en un primer momento se analizarán para el proyecto y luego se sacará conclusiones al respecto.
 
-El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del océano Pacífico y concentra varias de las zonas con mayor actividad sísmica del planeta. Abarca una región de alrededor de 40.000 kilómetros y contiene territorios de 31 países. El 90% de los terremotos y el 75% de los volcanes de todo el mundo se encuentran allí. Aquí se generó el terremoto más fuerte desde que se realizan registros, el terremoto de Valdivia, Chile, el 22 de mayo de 1960 con magnitud de 9,5, con posterior Tsunami en Japón, Filipinas y Hawai..
+El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del océano Pacífico y concentra varias de las zonas con mayor actividad sísmica del planeta. Abarca una región de alrededor de 40.000 kilómetros y contiene territorios de 31 países. El 90% de los terremotos y el 75% de los volcanes de todo el mundo se encuentran allí. Aquí se generó el terremoto más fuerte desde que se realizan registros, el terremoto de Valdivia, Chile, el 22 de mayo de 1960 con magnitud de 9,5, con posterior Tsunami en Japón, Filipinas y Hawai.
 
 ![image](https://user-images.githubusercontent.com/103937102/202608869-04d5764c-c594-411c-bb31-44aff7b52b1f.png)
 
@@ -241,8 +241,37 @@ El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del
 Ésta particularidad se debe al tipo de límite que se puede observar entre las placas tectónicas. Existen 3 clases; divergentes, convergentes y de fricción.
 En las clases divergentes las placas se separan en sentido opuesto (por ejemplo Gran Valle de Rift, que puede ocasionar que África se divida en el futuro). En el caso de las convergentes, las placas tienden a enfrentarse hacia la misma dirección, generando las llamadas zonas de subducción. Éste tipo se encuentra en buena parte del Anillo de Fuego. En éstas, una de las placas se hunde lentamente por debajo de la otra, generando tanto terremotos como erupciones de volcanes.
 
-Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma lateral en sentido opuesto (ocurre en la famosa Falla de San Andrés, en el oeste de América del Norte). Éste en particular se trata de uno de los lugares que genera mayor preocupación por los sismólogos por las consecuencias que puede presentar en un futuro cercano. Aquí sucedió uno de las mayores catástrofes de la historia de Estados Unidos, el terremoto de San Francisco en 1906, 
+Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma lateral en sentido opuesto (ocurre en la famosa Falla de San Andrés, en el oeste de América del Norte). Éste en particular se trata de uno de los lugares que genera mayor preocupación por los sismólogos por las consecuencias que puede presentar en un futuro cercano. Aquí sucedió uno de las mayores catástrofes de la historia de Estados Unidos, el terremoto de San Francisco en 1906. 
 
+De esta manera, para poder cumplir con los objetivos del proyecto, debimos realizar un análisis de datos, para elegir un país latinoamericano que se adapta a la consigna y a nuestras necesidades, entonces...
+
+## ¿Por qué Chile?
+
+Como se comentaba anteriormente, nuestro trabajo se encontraba con el objetivo de realizar una base de datos estandarizada entre Estados Unidos, Japón y un país a elección de Latinoamérica.
+Nuestra elección de país fue Chile. En primer lugar, por nuestra cercanía al país, ya que nos interesaba realizar un proyecto en el cual podamos “ayudar” con un sentido de pertenencia, como lo es un país vecino.
+En segundo lugar, Chile es considerado el país sísmicamente más activo del mundo y el cuarto más expuesto a sufrir daños mayores por catástrofes naturales.
+
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/mapa.png' height = 450 >
+
+
+Como se mencionó ut supra, el 22 de mayo de 1960, Chile registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter, en ese momento.
+El movimiento telúrico generó un tsunami que arrasó con varias poblaciones costeras e incluso provocó víctimas del otro lado del Pacífico, en Japón, Hawaii y Filipinas. Más de 2.000 personas perdieron la vida como consecuencia del temblor, y el sur del país quedó devastado.
+También, en el siguiente gráfico se observa que de los 15 terremotos más fuertes del mundo, 3 fueron en Chile.
+
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_1.png' height = 350 >
+
+
+A su vez desde el 2000 en Latinoamérica, los terremotos por países, de mayor a menor fueron: Chile en 2010, de 8,8 en la escala de Richter; Perú en 2001, de 8,4; Chile en 2015, de 8,3; Chile en 2014, de 8,3; Perú en 2007, de 8,0. Es decir, 3 de los 5 más fuerte fueron en este país.
+
+Chile, es uno de los países más proclives del mundo a sufrir temblores, debido a que está en el llamado Cinturón, o “anillo”, de fuego del Pacífico y gran parte de su territorio está expuesto al constante choque de la placa tectónica de Nazca y la placa Sudamericana. Lo que provoca movimientos de subducción, anteriormente explicados.
+
+Para terminar, al tener que realizar el proyecto con Estados Unidos, Japón y el país latinoamericano a libre elección, sumado a todas las características anteriormente mencionadas, se eligió Chile, ya que se encuentra en otro territorio completamente diferente a los anteriores (en otro hemisferio, comparado con Estados Unidos) y otro continente y hemisferio en relación a Japón. 
+
+Esto genera que sean distintas zonas geográficas, distintos clima y diferentes puntos en el mapa del mundo, por eso no se optó por ejemplo, por México, ya que es un país vecino a Estados Unidos. 
+
+En este país y más precisamente en gran parte de su capital, Santiago de Chile, se encuentra otra falla importante a considerar, la falla de San Ramón. Ésta es muy estudiada por sismólogos, quienes dicen que representa una amenaza muy fuerte para la zona metropolitana, al estar cercana a grandes centros urbanos y que podría ser un peligro para la vida de millones de personas, además por la gran cantidad de edificaciones que se encuentran sobre la misma.
+
+Para concluir, cabe destacar que así y todo (y no menos importante), los tres países pertenecen al anillo de fuego del pacífico.
  
 
 ## Disclaimer  

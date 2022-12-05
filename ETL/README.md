@@ -56,7 +56,6 @@ Fuente: [Free Weather API](https://open-meteo.com/en)
 
 Fuente: [Tabla poblacional](https://es.wikipedia.org/wiki/Anexo:Comunas_de_Chile)
 
-
 ### **Tránsfomación (T)**
 
 **Dataset principal:**
@@ -81,6 +80,7 @@ Una vez unificados los datos, se pasa a la transformación, en donde se eliminan
 ### **Carga (Load - L)**
 
 Se realiza una carga inicial de todas las tablas ya limpias y con sus datos validados.
+
 Para poder hacerlo, se crea un montor (engine) desde python para establecer la conexión a la base de datos a tráves de la librería SQLAlchemy.
 
 Es importante aclarar que, cómo fue mencionando anteriormente, también hay una carga con la clasificación de los terremotos y la fecha en la información fue tweeteada. 

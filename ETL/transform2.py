@@ -86,13 +86,17 @@ def col_geometry(pdseries):
     This function inputs a pandas series, which refers to a geometry column in POINT Z format; and
     returns 3 pandas series, one for each coordinate.
     '''
-    new = pdseries.str.split(' ', expand=True)
-    new[2]=new[2].apply(lambda x: str(x).replace('(',''))
-    new[4]=new[4].apply(lambda x: str(x).replace(')',''))
-    x = new[2].astype(float)
-    y = new[3].astype(float)
-    z = new[4].astype(float)
-
+    if len(pdseries) > 0:
+        new = pdseries.str.split(' ', expand=True)
+        new[2]=new[2].apply(lambda x: str(x).replace('(',''))
+        new[4]=new[4].apply(lambda x: str(x).replace(')',''))
+        x = new[2].astype(float)
+        y = new[3].astype(float)
+        z = new[4].astype(float)
+    else:
+        x = 0
+        y = 0
+        z = 0
     return x, y, z
 
 

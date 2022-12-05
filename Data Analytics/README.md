@@ -1,27 +1,4 @@
 # Data Analytics 
-¿Por qué Chile?
-Nuestro trabajo se encontraba con el objetivo de realizar una base de datos estandarizada entre Estados Unidos, Japón y un país a elección de Latinoamérica.
-Nuestra elección de país fue Chile. En primer lugar, por nuestra cercanía al país y nos interesaba realizar un proyecto en el cual podamos “ayudar” con un sentido de pertenencia, como lo es un país vecino.
-En segundo lugar, Chile es considerado el país sísmicamente más activo del mundo y el cuarto más expuesto a sufrir daños mayores por catástrofes naturales.
-
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/mapa.png' height = 450 >
-
-
-El más fuerte se dio el 22 de mayo de 1960, cuando el país registró lo que aún sigue siendo el mayor sismo en la historia de la humanidad. El llamado "Gran Terremoto de Chile", cuyo epicentro se localizó en la ciudad de Valdivia, en el sur del país, midió 9,5 grados en la Escala de Richter.
-El movimiento telúrico generó un tsunami que arrasó con varias poblaciones costeras e incluso provocó víctimas del otro lado del Pacífico, en Japón, Hawaii y Filipinas. Más de 2.000 personas perdieron la vida como consecuencia del temblor, y el sur del país quedó devastado.
-En el siguiente gráfico se observa que de los 15 terremotos más fuertes del mundo, 3 son en Chile.
-
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_1.png' height = 350 >
-
-
-A su vez desde el 350 en Latinoamérica, los terremotos por países, de mayor a menor fueron: Chile en 2010, de 8,8 en la escala de Richter; Perú en 2001, de 8,4; Chile en 2015, de 8,3; Chile en 2014, de 8,3; Perú en 2007, de 8,0. Es decir, 3 de los 5 más fuerte fueron en este país.
-
-Chile, es uno de los países más proclives del mundo a sufrir temblores, debido a que está en el llamado Cinturón, o “anillo”, de fuego del Pacífico y gran parte de su territorio está expuesto al constante choque de la placa tectónicas de Nazca y la placa Sudamericana.
-
-
-<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/anillo.png' height = 400 >
-En el anillo de fuego se encuentra el 90 % de la actividad sísmica del planeta y concentra un 75% de los volcanes activos del mundo. (por eso la palabra fuego)
-
 
 # Análisis Clasificación Twitter.
 En cuanto al análisis de la clasificación para tabla de twitter, en un comienzo se creyó que lo ideal era basar la búsqueda en base a magnitud y profundidad, ya que a menor profundidad de los movimientos sísmicos en la tierra, más daño produce, tanto a humanos como materiales. Pero a través del siguiente gráfico, se observa la correlación entre la magnitud y profundidad de un terremoto y se demuestra que a medida que la magnitud se va incrementando la profundidad rara vez tiende a ser grande. 
