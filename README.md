@@ -245,7 +245,7 @@ Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma 
 
 De esta manera, para poder cumplir con los objetivos del proyecto, debimos realizar un análisis de datos, para elegir un país latinoamericano que se adapta a la consigna y a nuestras necesidades, entonces...
 
-# ¿Por qué Chile?
+## ¿Por qué Chile?
 
 Como se comentaba anteriormente, nuestro trabajo se encontraba con el objetivo de realizar una base de datos estandarizada entre Estados Unidos, Japón y un país a elección de Latinoamérica.
 Nuestra elección de país fue Chile. En primer lugar, por nuestra cercanía al país, ya que nos interesaba realizar un proyecto en el cual podamos “ayudar” con un sentido de pertenencia, como lo es un país vecino.
@@ -266,8 +266,11 @@ A su vez desde el 2000 en Latinoamérica, los terremotos por países, de mayor a
 Chile, es uno de los países más proclives del mundo a sufrir temblores, debido a que está en el llamado Cinturón, o “anillo”, de fuego del Pacífico y gran parte de su territorio está expuesto al constante choque de la placa tectónica de Nazca y la placa Sudamericana. Lo que provoca movimientos de subducción, anteriormente explicados.
 
 Para terminar, al tener que realizar el proyecto con Estados Unidos, Japón y el país latinoamericano a libre elección, sumado a todas las características anteriormente mencionadas, se eligió Chile, ya que se encuentra en otro territorio completamente diferente a los anteriores (en otro hemisferio, comparado con Estados Unidos) y otro continente y hemisferio en relación a Japón. 
+
 Esto genera que sean distintas zonas geográficas, distintos clima y diferentes puntos en el mapa del mundo, por eso no se optó por ejemplo, por México, ya que es un país vecino a Estados Unidos. 
+
 En este país y más precisamente en gran parte de su capital, Santiago de Chile, se encuentra otra falla importante a considerar, la falla de San Ramón. Ésta es muy estudiada por sismólogos, quienes dicen que representa una amenaza muy fuerte para la zona metropolitana, al estar cercana a grandes centros urbanos y que podría ser un peligro para la vida de millones de personas, además por la gran cantidad de edificaciones que se encuentran sobre la misma.
+
 Para concluir, cabe destacar que así y todo (y no menos importante), los tres países pertenecen al anillo de fuego del pacífico.
  
 
