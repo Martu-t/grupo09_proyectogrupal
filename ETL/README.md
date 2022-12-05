@@ -19,7 +19,7 @@ Bienvenido/a a la sección de ETL. Aquí podrás encontrar todo el código utili
 
 En la etapa de extración se realizan consultas a diversas APIs. Así podremos tener información suficiente para un posterior análisis de terremotos, teniendo en cuenta distintos factores. 
 
-La API de donde se extrae la mayor cantidad de datos es [USGS].(https://earthquake.usgs.gov/fdsnws/event/1/)
+La API de donde se extrae la mayor cantidad de datos es [USGS](https://earthquake.usgs.gov/fdsnws/event/1/).
 Se realiza una extración inicial con datos desde el 2010 al presente.
 Luego se hacen consultas cada una hora para agregar dicha información a nuestra base de datos.
 
