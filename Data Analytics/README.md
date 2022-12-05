@@ -1,7 +1,7 @@
 # Data Analytics 
 
 # Análisis Clasificación Twitter.
-En cuanto al análisis de la clasificación para tabla de twitter, en un comienzo se creyó que lo ideal era basar la búsqueda en base a magnitud y profundidad, ya que a menor profundidad de los movimientos sísmicos en la tierra, más daño produce, tanto a humanos como materiales. Pero a través del siguiente gráfico, se observa la correlación entre la magnitud y profundidad de un terremoto y se demuestra que a medida que la magnitud se va incrementando la profundidad rara vez tiende a ser grande. 
+En cuanto al análisis de la clasificación para la tabla de twitter, en un comienzo se creyó que lo ideal era basar la búsqueda en base a magnitud y profundidad, ya que a menor profundidad de los movimientos sísmicos en la tierra, más daño produce, tanto a humanos como materiales. Pero a través del siguiente gráfico, se observa la correlación entre la magnitud y profundidad de un terremoto y se demuestra que a medida que la magnitud se va incrementando la profundidad rara vez tiende a ser grande. Por este motivo, y para no tediar mucho el análisis, decidimos tomar de esta comparación, sólo la magnitud.
 
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/seas.png' height = 300 >
 
@@ -10,11 +10,15 @@ La clasificación elegida a través del análisis de los datos se dividirá en 4
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_2.png' height = 100 >
 
 •	0 = No se informará en twitter.
+
 •	1 = Se enviará un mensaje de “aviso” (verde).
+
 •	2 = El bot de twitter enviará un mensaje de “Advertencia” (naranja).
+
 •	3 = Se tweeteará un mensaje de “Alerta” (como máximo nivel) (rojo).
 
-Por lo que el análisis de como se categorizará el “dato” que ingrese como nuevo terremoto, se decidió realizar a través Magnitud y por cercania / tipo de ciudad. Esto, dado que la cercania (distancia en kilómetros) a una zona específica puede ser parámetro subjetivo de informe, como también si la ciudad es grande o chica. Ya que sin dudas, las consecuencias de un terremoto en una ciudad como Santiago de Chile, pueden ser muy distintas a si ocurre en una zona rural.
+
+Por lo que el análisis de como se categorizará el “dato” que ingrese como nuevo terremoto, se decidió realizar a través de Magnitud y por cercania / tipo de ciudad. Ésto, dado que la cercania (distancia en kilómetros) a una zona específica puede ser parámetro subjetivo de informe, como también si la ciudad es grande o chica. Ya que sin dudas, las consecuencias de un terremoto en una ciudad como Santiago de Chile, pueden ser muy distintas a si ocurre en una zona rural.
 Para ello, se diseñó la siguiente tabla, en la que, dependiendo los sucesos que vayan aconteciendo y según las características antes mencionadas, puedan encontrarse clasificadas en alguna, y sólo una, de las categorías antes mencionadas: “0”,”1”,”2” o “3”.
 
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_3.png' height = 100 >
@@ -57,6 +61,9 @@ Para ello, se diseñó la siguiente tabla, en la que, dependiendo los sucesos qu
 <img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_13.png' height = 200 >
 
 •	Si la magnitud es menor a 3 no se informa ya que es imperceptible.
+
 •	Si la magnitud es entre 3 y 5 lo percibirán la mayor cantidad de personas en la zona afectada y provocar destrozos en edificios en mal estado o algunas víctimas.
+
 •	Si la magnitud es entre 5 y 7 pueden implicar miles de víctimas mortales en función a la zona afectada y suelen ser significativos en la zona situada hasta 250 km del epicentro.
+
 •	Si la magnitud es de más de 7 provocan una destrucción casi total en zonas muy amplias y en todo tipo de edificios. Además se producen cambios permanentes en la topografía de la zona afectada. Ya se debe evacuar.
