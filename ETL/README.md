@@ -4,14 +4,14 @@
 
 
 ##  Propuesta de la sección
-Bienvenido/a la sección de ETL. Aquí podrás encontrar todo el código utilizado para llevar a cabo un proceso de extracción, transformación y carga a una base de datos en la nube. Todo de manera automatizada con python.
+Bienvenido/a a la sección de ETL. Aquí podrás encontrar todo el código utilizado para llevar a cabo un proceso de extracción, transformación y carga a una base de datos en la nube. Todo de manera automatizada con python.
 
 ## Herramientas utilizadas:
 
- - Python y sus librerías, cómo Pandas, Numpy y SQLalchemy
+ - Python y sus librerías, como Pandas, Numpy y SQLalchemy
  - Maquina virtual a tráves de AWS 
  - Gestor SQL: Postgress 
- - Host base de datos: e AWS (S3)
+ - Host base de datos: en AWS (S3)
 
 ## Pasos de forma detallada del ETL
 
