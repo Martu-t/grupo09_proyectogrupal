@@ -198,7 +198,7 @@ https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/eda.ipynb
 - Fuentes de datos complementarios: Se agregan 3 dataset adicionales que se pueden encontrar en la carpeta: additional datasets
 
 ## ETL
-Todo el proceso se encuentra en la carpeta [ETL](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ETL) de este mismo repositorio
+Todo el proceso se encuentra en la carpeta [ETL](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ETL) de este mismo repositorio.
 
 ## Diccionario de datos general: 
 
@@ -211,7 +211,7 @@ Para continuar, se cree importante dar el significado de algunos conceptos bási
 
 
 #### Sismo: 
-Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta) causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles, pero en algunos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
+Un sismo es el movimiento brusco de la Tierra (con mayúsculas, ya que se refiere al planeta), causado por la liberación de energía acumulada durante un largo tiempo.  Estos movimientos son habitualmente lentos e imperceptibles. Pero en algunos casos el desplazamiento libera una gran cantidad de energía, cuando una de las placas se mueve bruscamente contra la otra, rompiéndola y originando un terremoto. 
 
 La diferencia entre sismo y terremoto está dada por la intensidad del movimiento sísmico, el más peligroso, con efectos destructivos que puedan llegar a ser fatales, es el terremoto. 
 
@@ -233,7 +233,7 @@ Magnitud es una medida única del tamaño de un terremoto. Ésta indica cuanta e
 
 Cabe destacar algunos datos importantes, que en un primer momento se analizarán para el proyecto y luego se sacará conclusiones al respecto.
 
-El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del océano Pacífico y concentra varias de las zonas con mayor actividad sísmica del planeta. Abarca una región de alrededor de 40.000 kilómetros y contiene territorios de 31 países. El 90% de los terremotos y el 75% de los volcanes de todo el mundo se encuentran allí. Aquí se generó el terremoto más fuerte desde que se realizan registros, el terremoto de Valdivia, Chile, el 22 de mayo de 1960 con magnitud de 9,5, con posterior Tsunami en Japón, Filipinas y Hawai..
+El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del océano Pacífico y concentra varias de las zonas con mayor actividad sísmica del planeta. Abarca una región de alrededor de 40.000 kilómetros y contiene territorios de 31 países. El 90% de los terremotos y el 75% de los volcanes de todo el mundo se encuentran allí. Aquí se generó el terremoto más fuerte desde que se realizan registros, el terremoto de Valdivia, Chile, el 22 de mayo de 1960 con magnitud de 9,5, con posterior Tsunami en Japón, Filipinas y Hawai.
 
 ![image](https://user-images.githubusercontent.com/103937102/202608869-04d5764c-c594-411c-bb31-44aff7b52b1f.png)
 
@@ -241,7 +241,7 @@ El **Anillo de Fuego,** o **Cinturón de Fuego**, se encuentra en las costas del
 Ésta particularidad se debe al tipo de límite que se puede observar entre las placas tectónicas. Existen 3 clases; divergentes, convergentes y de fricción.
 En las clases divergentes las placas se separan en sentido opuesto (por ejemplo Gran Valle de Rift, que puede ocasionar que África se divida en el futuro). En el caso de las convergentes, las placas tienden a enfrentarse hacia la misma dirección, generando las llamadas zonas de subducción. Éste tipo se encuentra en buena parte del Anillo de Fuego. En éstas, una de las placas se hunde lentamente por debajo de la otra, generando tanto terremotos como erupciones de volcanes.
 
-Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma lateral en sentido opuesto (ocurre en la famosa Falla de San Andrés, en el oeste de América del Norte). Éste en particular se trata de uno de los lugares que genera mayor preocupación por los sismólogos por las consecuencias que puede presentar en un futuro cercano. Aquí sucedió uno de las mayores catástrofes de la historia de Estados Unidos, el terremoto de San Francisco en 1906, 
+Las clases de fricción, son conocidas como “fallas”. Se desplazan de forma lateral en sentido opuesto (ocurre en la famosa Falla de San Andrés, en el oeste de América del Norte). Éste en particular se trata de uno de los lugares que genera mayor preocupación por los sismólogos por las consecuencias que puede presentar en un futuro cercano. Aquí sucedió uno de las mayores catástrofes de la historia de Estados Unidos, el terremoto de San Francisco en 1906. 
 
  
 
