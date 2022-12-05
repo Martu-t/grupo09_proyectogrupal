@@ -13,9 +13,9 @@
 
 ## Entendimiento de la situación:
 
-Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana y medidas de protección y atención apropiadas resultan urgentes. 
+Los desastres naturales pueden resultar en un gran número de muertes, pérdida de propiedades, y daños irreparables. Es por esto que la predicción temprana, las medidas de protección y de atención apropiadas resultan urgentes. 
 
-Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva, lo que deriva en una problemática que afecta a la población. Por consiguiente, este proyecto busca facilitar la vida a la sociedad, dándole acceso a información de manera simplificada y en lenguaje cotidiano. 
+Particularmente, los sismos, son el fenómeno natural del cual tenemos menor capacidad predictiva, lo que deriva en una problemática que afecta a la población. Por consiguiente, éste proyecto busca facilitar la vida a la sociedad, dándole acceso a información de manera simplificada y en lenguaje cotidiano. 
 
 ##  Objetivos: 
 
@@ -28,7 +28,7 @@ Crear una base de datos que contemple información de sismos en Estados Unidos, 
 
 Incrementar el interés y comprensión de la comunidad en torno a la temática sismográfica.  
 
-Desarrollar bot autómatizado de Twitter qué una vez sucedido un sismo, informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro.
+Desarrollar un bot automatizado de Twitter, que una vez sucedido un sismo informe a la sociedad. Se intentará incluir si la salud o seguridad se encuentran en peligro.
 
 
 ### Específicos del grupo:
@@ -50,13 +50,13 @@ Se creará una base de datos que albergue información de éstos tres países de
 
 Luego, se realizará en ella, cargas incrementales de los datos a medida que vayan sucediendo, actualizándose cada una hora aproximadamente. 
 
-Además, se implementará un modelo de Machine Learning (ML), específicamente de aprendizaje no supervisado. Podremos así, tener una clasificación de distintos tipos de eventos de manera sencilla.  
+Además, se implementará un modelo de Machine Learning (ML), específicamente de aprendizaje no supervisado. Podremos así, tener una clasificación de distintos tipos de eventos de manera sencilla. En el caso de no obtener una clasificación específica a través del ML, se utilizará un Data Analytics para complementar la información.
 
 En la cuenta de twitter https://twitter.com/alertas_sismos, y en base a la clasificación mencionada, nuestro bot indicará a la sociedad, a través de publicaciones automáticas, si se deberá tomar medidas previsionales añadiendo mínimos detalles técnicos del fenómeno ocurrido.  
 
 Se plantea la posibilidad de realizar el trabajo en un ambiente cloud, para ello se están analizando los distintos entornos para elegir el que más se adecúa al mismo. 
 
-Estará fuera del alcance del proyecto, por razones de complejidad y tiempo, la elaboración de conclusiones específicas cuantitativas respecto a la información secundaria obtenida, como clima, tsunamis y erupciones volcánicas. 
+Estará fuera del alcance del proyecto, por razones de complejidad y tiempo, la elaboración de conclusiones específicas cuantitativas respecto a la información secundaria obtenida, como clima, tsunamis y erupciones volcánicas, asi como técnicas / científicas en general. 
 
 Se plantea la posibilidad de continuación del proyecto una vez concluido el plazo del mismo.
 
@@ -125,15 +125,15 @@ Python = Extracción, EDA, Transformación, carga a base de datos (inicial e inc
 
 - Github = Repositorio de GITHUB y control de versiones. 
 
-- Python y sus librerías = Para ETL automatizado (incluïda conexión a BD). Uso de Tweepy para conectar a la API de Twitter
+- Python y sus librerías = Para ETL automatizado (incluída conexión a BD). Uso de Tweepy para conectar a la API de Twitter.
 
-- PostgreSQL= Creación y manejo de Base de datos. Se utiliza el motor a traves de AWS (con base de datos RDS)
+- PostgreSQL= Creación y manejo de Base de datos. Se utiliza el motor a traves de AWS (con base de datos RDS).
 
-- Power BI = Presentación de dashboard 
+- Power BI = Presentación de dashboard.
 
-- Streamlit = Deploy del módelo de machine learning y mapa interactivo 
+- Streamlit = Deploy del módelo de machine learning y mapa interactivo. 
 
-- Ambiente cloud = Desarrollo de trabajo 
+- Ambiente cloud = Desarrollo de trabajo. 
 
 - Metodología de trabajo: 
 
@@ -148,13 +148,13 @@ Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de c
 Los entregables de cada sprints serán: 
 
 #### Semana 1: 
-Propuesta de trabajo, efectivamente fundamentada y documentada. Completo
+Propuesta de trabajo, efectivamente fundamentada y documentada. **Completo.**
 
 #### Semana 2: 
-Creación de Data Warehouse y carga inicial e incremental. Utilizando el Stack tecnológico más adecuado y documentando el proceso. Completo 
+Creación de Data Warehouse y carga inicial e incremental. Utilizando el Stack tecnológico más adecuado y documentando el proceso. **Completo.** 
 
 #### Semana 3:
-Dashboard y modelo de Machine Learning. 
+Dashboard y modelo de Machine Learning. **Completo.**
 
 #### Semana 4:
 Demostración final y storytelling ante el Product Owner. 
@@ -163,13 +163,13 @@ Demostración final y storytelling ante el Product Owner.
 
 El equipo de trabajo está conformado por: 
 
-Martha Alejandra Tarantino 
+Martha Alejandra Tarantino. 
 
-Federico Gonzalez Pietranera 
+Federico Gonzalez Pietranera. 
 
-Deiner Fabian Silva Rueda 
+Deiner Fabian Silva Rueda. 
 
-Axel Moriena 
+Axel Moriena. 
 
 Los roles y responsabilidades de cada integrante estarán suscitados al perfil de cada uno y en dependencia de las tareas a realizar en cada sprint. 
 
