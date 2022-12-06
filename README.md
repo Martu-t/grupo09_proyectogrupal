@@ -6,6 +6,8 @@
 
 # <h1 align="center">**`SISTEMA DE ALERTAS SISMICAS`**</h1>
 
+***If you would like to see the info in English, please [Click Here](https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/README_EN.md) ***
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/67664604/198112414-ebe5a60f-6bbf-4f94-9924-20da4d702bb5.png"  height=700> 
 </p>
@@ -182,23 +184,25 @@ Decidimos utilizar la aplicación "Asana" para la distribución de tareas y simp
 Se obtendrá más información en detalle en el siguiente diagrama de Gantt.
 
 <p align="center">
-<img src= https://iili.io/H9gfLv9.png
- height="500">
+<img src= https://iili.io/H9gfLv9.png>
 </p>
-
-## EDA
-
-Análisis preliminar de calidad de datos. (features y significado de cada uno y todo el análisis posterior que se realizó). 
-
-https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/eda.ipynb 
-
-## **Datasets y fuentes complementarias**
-
-- Fuente de datos principal: https://earthquake.usgs.gov/fdsnws/event/1/
-- Fuentes de datos complementarios: Se agregan 3 dataset adicionales que se pueden encontrar en la carpeta: additional datasets
 
 ## ETL
 Todo el proceso se encuentra en la carpeta [ETL](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ETL) de este mismo repositorio.
+
+## Analysis
+En la sección de [Data Analysis](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/Data%20Analytics) encontrarás tanto el análisis de los datos generales, como asï tambiën una explicaciön de los parámetros que hemos tenido en cuenta al momento de planificar la clasificación de sismos.
+
+## Machine Learning
+En la carpeta de [ML](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ML) podrás ver la elección del nuestro módelos, fundamentos y puesta en marcha del mismo
+
+## Twitter bot
+Dentro de la carpeta de [twiiter](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/ML)https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/twitter puedes ver todo el cödigo que mantiene a nuestro bot funcionando. Adicionalmente te invitamos pasar por nuestro [Perfil de Twitter](https://twitter.com/alertas_sismos) para verlo en marcha.
+
+## Streamlit
+En la carpeta de este repositorio llamada [streamlit](https://github.com/Martu-t/grupo09_proyectogrupal/tree/main/streamlit) puedes ver el código fuente y requerimientos para poner la app en la web.
+Te invitamos a visitar la página de [Streamlit](Deploy: https://terremotos-chile.streamlit.app/) donde encontrarás un poco mäs sobre nosotros, recomendaciones generales sobre sismos y un mapa interactivo de los ültimos eventos emitidos en nuestro Twitter.
+
 
 ## Diccionario de datos general: 
 

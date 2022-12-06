@@ -202,5 +202,31 @@ The Ring of Fire is a direct result of plate tectonics: specifically the movemen
 ![image](https://user-images.githubusercontent.com/103937102/202608869-04d5764c-c594-411c-bb31-44aff7b52b1f.png)
 
 
+## Why Chile?
+
+As we mentioned before, our work was focused on creating a standard database with 3 countries, USA, Japan and another Latin American country of our selection. 
+We choose Chile. Firstly, because of the closeness with this country, and with this project, we can "help out" our neighbour. Secondly,  Chile is considered the most active country in terms of earthquakes and the 4th most likely to suffer higher damaged due to natural catastrophes. 
 
 
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/mapa.png' height = 450 >
+
+As mentioned above, on May 22, 1960, Chile recorded what is still the largest earthquake in human history. The so-called "Great Earthquake of Chile", whose epicenter was located in the city of Valdivia, in the south of the country, measured 9.5 degrees on the Richter Scale at that time.
+The telluric movement generated a tsunami that devastated several coastal towns and even caused victims on the other side of the Pacific, in Japan, Hawaii and the Philippines. More than 2,000 people lost their lives as a result of the tremor, and the south of the country was devastated.
+Also, the following graph shows that of the 15 strongest earthquakes in the world, 3 were in Chile.
+
+
+<img src = 'https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/Data%20Analytics/src/grafico_1.png' height = 350 >
+
+
+Moreover, since 2000 in Latin America, the earthquakes by country, from largest to smallest, were: Chile in 2010, measuring 8.8 on the Richter scale; Peru in 2001, 8.4; Chile in 2015, 8.3; Chile in 2014, 8.3; Peru in 2007, 8.0. That is, 3 of the 5 strongest were in this country.
+
+Chile is one of the countries most prone to earthquakes in the world, because it is in the so-called Belt, or "ring", of fire in the Pacific and a large part of its territory is exposed to the constant clash of the Nazca tectonic plate. and the South American plate. What causes subduction movements, previously explained.
+
+Finally, having to carry out the project with the United States, Japan and the Latin American country of free choice, added to all the aforementioned characteristics, Chile was chosen, since it is located in a completely different territory from the previous ones (in another hemisphere , compared to the United States) and another continent and hemisphere relative to Japan.
+
+This generates different geographical areas, different climates and different points on the world map, which is why, for example, Mexico was not chosen, since it is a neighboring country to the United States.
+
+In this country and more precisely in a large part of its capital, Santiago de Chile, there is another important fault to consider, the San Ramón fault. This is closely studied by seismologists, who say that it represents a very strong threat to the metropolitan area, as it is close to large urban centers and that it could be a danger to the lives of millions of people, in addition to the large number of buildings that are find about it.
+
+To conclude, it should be noted that even so (and no less important), the three countries belong to the Pacific ring of fire
+ 
