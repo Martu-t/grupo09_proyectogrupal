@@ -6,7 +6,7 @@
 
 # <h1 align="center">**`SISTEMA DE ALERTAS SISMICAS`**</h1>
 
-***If you would like to see the info in English, please [Click Here](https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/README_EN.md) ***
+***If you would like to see the info in English, please [Click Here](https://github.com/Martu-t/grupo09_proyectogrupal/blob/main/README_EN.md)***
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/67664604/198112414-ebe5a60f-6bbf-4f94-9924-20da4d702bb5.png"  height=700> 
